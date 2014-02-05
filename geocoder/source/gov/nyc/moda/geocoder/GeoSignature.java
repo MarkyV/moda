@@ -1,15 +1,15 @@
-package Geocoder;
+package gov.nyc.moda.geocoder;
+
+import gov.nyc.moda.geocoder.parser.Address;
+import gov.nyc.moda.geocoder.parser.House;
+import gov.nyc.moda.geocoder.parser.Intersection;
+import gov.nyc.moda.geocoder.parser.Intersector;
+import gov.nyc.moda.geocoder.parser.Parser;
+import gov.nyc.moda.geocoder.parser.StdOut;
 
 import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-import Parser.Address;
-import Parser.House;
-import Parser.Intersection;
-import Parser.Intersector;
-import Parser.Parser;
-import Parser.StdOut;
 
 public class GeoSignature {
 	

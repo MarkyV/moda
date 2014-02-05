@@ -1,4 +1,11 @@
-package Geocoder;
+package gov.nyc.moda.geocoder;
+import gov.nyc.moda.geocoder.parser.DataLookup;
+import gov.nyc.moda.geocoder.parser.In;
+import gov.nyc.moda.geocoder.parser.Out;
+import gov.nyc.moda.geocoder.parser.Parser;
+import gov.nyc.moda.geocoder.parser.StdIn;
+import gov.nyc.moda.geocoder.parser.StdOut;
+
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
@@ -9,13 +16,6 @@ import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.regex.Pattern;
-
-import Parser.DataLookup;
-import Parser.In;
-import Parser.Out;
-import Parser.Parser;
-import Parser.StdIn;
-import Parser.StdOut;
 
 import com.googlecode.jcsv.CSVStrategy;
 import com.googlecode.jcsv.reader.CSVEntryParser;

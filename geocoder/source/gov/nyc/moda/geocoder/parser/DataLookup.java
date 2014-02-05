@@ -1,4 +1,4 @@
-package Parser;
+package gov.nyc.moda.geocoder.parser;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -290,7 +290,7 @@ public class DataLookup {
 		String res = addressMatch.get("1 11111001");
 		System.out.println(res);
 		
-		DataLookup dl = new DataLookup("/Parser/edit_streetnames.csv",",");
+		DataLookup dl = new DataLookup("/gov.nyc.moda.geocoder.parser/edit_streetnames.csv",",");
 
 		// create hash with duplicate key values
 		HashMap<String, ArrayList<String>> dupkey = dl.DupeKeyLookup("boronum_g", "streetname_g");

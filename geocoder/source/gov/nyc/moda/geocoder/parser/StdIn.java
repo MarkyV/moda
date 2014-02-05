@@ -1,4 +1,4 @@
-package Parser;
+package gov.nyc.moda.geocoder.parser;
 /*************************************************************************
  *  Compilation:  javac StdIn.java
  *  Execution:    java StdIn   (interactive test of basic functionality)

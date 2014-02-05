@@ -1,4 +1,4 @@
-package Parser;
+package gov.nyc.moda.geocoder.parser;
 
 
 import java.util.ArrayList; 
@@ -62,7 +62,7 @@ public class Street {
 		//find suffix and pull it out
 		search:
 			if (suffix.length()==0) for (int i=spl.length-1; i>=0; i--){
-				In file = new In("/Parser/unique_suffixes.csv");
+				In file = new In("/gov.nyc.moda.geocoder.parser/unique_suffixes.csv");
 				while(!file.isEmpty()) {
 					String k = file.readLine().trim().toUpperCase();
 					if (k.equals(spl[i].trim())) {

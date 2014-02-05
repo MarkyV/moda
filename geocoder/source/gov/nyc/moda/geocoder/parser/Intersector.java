@@ -1,4 +1,4 @@
-package Parser;
+package gov.nyc.moda.geocoder.parser;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 

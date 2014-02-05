@@ -1,4 +1,4 @@
-package Geocoder;
+package gov.nyc.moda.geocoder;
 
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;

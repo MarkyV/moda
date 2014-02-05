@@ -15,7 +15,5 @@ Information about the project can be found on the [project hackpad](https://nycd
 ## Data
 All of the data for dive-related tasks can be found on the [project dropbox](https://www.dropbox.com/sh/rngvzplwjfkylv1/QAE-UPdfkT).  If you'd like to add data files talk to a Data Ambassador and they will share the folder with you.
 
-
-
-
-
+## Continuous Integration status
+https://www.codeship.io/projects/317f9cb0-704a-0131-5baf-5a35994fc8f1/status

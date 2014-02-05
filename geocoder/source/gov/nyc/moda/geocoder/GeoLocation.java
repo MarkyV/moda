@@ -1,9 +1,10 @@
-package Geocoder;
+package gov.nyc.moda.geocoder;
+
+import gov.nyc.moda.geocoder.parser.House;
+import gov.nyc.moda.geocoder.parser.Parser;
+import gov.nyc.moda.geocoder.parser.StdOut;
 
 import java.util.ArrayList;
-import Parser.House;
-import Parser.Parser;
-import Parser.StdOut;
 
 
 public class GeoLocation {

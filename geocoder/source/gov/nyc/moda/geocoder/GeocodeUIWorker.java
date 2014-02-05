@@ -1,4 +1,4 @@
-package Geocoder;
+package gov.nyc.moda.geocoder;
 
 import javax.swing.SwingWorker;
 

@@ -1,9 +1,8 @@
-package Parser;
+package gov.nyc.moda.geocoder.parser;
 
 import java.util.ArrayList; 
 import java.util.Arrays;
 import java.lang.String;
-
 
 public class Address{
 	public ArrayList<House> houses;

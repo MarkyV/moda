@@ -1,4 +1,4 @@
-package Parser;
+package gov.nyc.moda.geocoder.parser;
 import java.io.BufferedInputStream;
 import java.io.File;
 import java.io.IOException;

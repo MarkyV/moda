@@ -1,4 +1,4 @@
-package Parser;
+package gov.nyc.moda.geocoder.parser;
 import java.util.ArrayList; 
 import java.lang.String;
 import java.util.HashMap; 
@@ -182,14 +182,14 @@ public class NameMatch {
 		StdOut.println(diff);
 		
 		// match a city name
-		DataLookup cities = new DataLookup("/Parser/ny_cities.csv",",");
+		DataLookup cities = new DataLookup("/gov.nyc.moda.geocoder.parser/ny_cities.csv",",");
 		NameMatch cityNameMatch = new NameMatch(cities, "name");
 		cityNameMatch.maxDiff = 1;
 		m = cityNameMatch.BestMatch("HASTINGS ON HUDSON");
 		StdOut.println(m.match);
 		
 		// match a street name by boro
-		DataLookup streets = new DataLookup("/Parser/edit_streetnames.csv",",");
+		DataLookup streets = new DataLookup("/gov.nyc.moda.geocoder.parser/edit_streetnames.csv",",");
 		NameMatch streetNameMatch = new NameMatch(streets, "boronum_g", "streetname_g");
 		m = streetNameMatch.BestMatch("3", "gerrison");
 		StdOut.println(m.match);

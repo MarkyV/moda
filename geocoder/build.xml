@@ -51,67 +51,67 @@
         <antcall target="build"/>
     </target>
     <target name="Address">
-        <java classname="Parser.Address" failonerror="true" fork="yes">
+        <java classname="gov.nyc.moda.geocoder.parser.Address" failonerror="true" fork="yes">
             <classpath refid="Geocode.classpath"/>
         </java>
     </target>
     <target name="DataLookup">
-        <java classname="Parser.DataLookup" failonerror="true" fork="yes">
+        <java classname="gov.nyc.moda.geocoder.parser.DataLookup" failonerror="true" fork="yes">
             <classpath refid="Geocode.classpath"/>
         </java>
     </target>
     <target name="Geocode">
-        <java classname="Geocoder.Geocode" failonerror="true" fork="yes">
+        <java classname="gov.nyc.moda.geocoder.Geocode" failonerror="true" fork="yes">
             <classpath refid="Geocode.classpath"/>
         </java>
     </target>
     <target name="GeoMatcher">
-        <java classname="Geocoder.GeoMatcher" failonerror="true" fork="yes">
+        <java classname="gov.nyc.moda.geocoder.GeoMatcher" failonerror="true" fork="yes">
             <classpath refid="Geocode.classpath"/>
         </java>
     </target>
     <target name="GeoSignature">
-        <java classname="Geocoder.GeoSignature" failonerror="true" fork="yes">
+        <java classname="gov.nyc.moda.geocoder.GeoSignature" failonerror="true" fork="yes">
             <classpath refid="Geocode.classpath"/>
         </java>
     </target>
     <target name="House">
-        <java classname="Parser.House" failonerror="true" fork="yes">
+        <java classname="gov.nyc.moda.geocoder.parser.House" failonerror="true" fork="yes">
             <classpath refid="Geocode.classpath"/>
         </java>
     </target>
     <target name="In (1)">
-        <java classname="Parser.In" failonerror="true" fork="yes">
+        <java classname="gov.nyc.moda.geocoder.parser.In" failonerror="true" fork="yes">
             <classpath refid="Geocode.classpath"/>
         </java>
     </target>
     <target name="Intersection">
-        <java classname="Parser.Intersection" failonerror="true" fork="yes">
+        <java classname="gov.nyc.moda.geocoder.parser.Intersection" failonerror="true" fork="yes">
             <classpath refid="Geocode.classpath"/>
         </java>
     </target>
     <target name="Intersector">
-        <java classname="Parser.Intersector" failonerror="true" fork="yes">
+        <java classname="gov.nyc.moda.geocoder.parser.Intersector" failonerror="true" fork="yes">
             <classpath refid="Geocode.classpath"/>
         </java>
     </target>
     <target name="NameMatch">
-        <java classname="Parser.NameMatch" failonerror="true" fork="yes">
+        <java classname="gov.nyc.moda.geocoder.parser.NameMatch" failonerror="true" fork="yes">
             <classpath refid="Geocode.classpath"/>
         </java>
     </target>
-    <target name="Parser">
-        <java classname="Parser.Parser" failonerror="true" fork="yes">
+    <target name="gov.nyc.moda.geocoder.parser">
+        <java classname="gov.nyc.moda.geocoder.parser.Parser" failonerror="true" fork="yes">
             <classpath refid="Geocode.classpath"/>
         </java>
     </target>
     <target name="Street">
-        <java classname="Parser.Street" failonerror="true" fork="yes">
+        <java classname="gov.nyc.moda.geocoder.parser.Street" failonerror="true" fork="yes">
             <classpath refid="Geocode.classpath"/>
         </java>
     </target>
     <target name="GeoLocation">
-        <java classname="Geocoder.GeoLocation" failonerror="true" fork="yes">
+        <java classname="gov.nyc.moda.geocoder.GeoLocation" failonerror="true" fork="yes">
             <classpath refid="Geocode.classpath"/>
         </java>
     </target>

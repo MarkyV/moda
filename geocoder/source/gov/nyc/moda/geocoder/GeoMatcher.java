@@ -1,5 +1,5 @@
-package Geocoder;
-import Parser.*;
+package gov.nyc.moda.geocoder;
+import gov.nyc.moda.geocoder.parser.*;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

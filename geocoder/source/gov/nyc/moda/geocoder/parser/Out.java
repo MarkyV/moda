@@ -1,4 +1,4 @@
-package Parser;
+package gov.nyc.moda.geocoder.parser;
 /*************************************************************************
  *  Compilation:  javac Out.java
  *  Execution:    java Out

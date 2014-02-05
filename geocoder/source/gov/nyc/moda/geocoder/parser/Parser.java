@@ -1,4 +1,4 @@
-package Parser;
+package gov.nyc.moda.geocoder.parser;
 import java.util.ArrayList; 
 import java.util.HashMap;
 import java.lang.String;
@@ -13,13 +13,13 @@ public class Parser {
 	private DataLookup editStreets, allStreets, allCities;
 	
 	public Parser(){
-		editStreets = new DataLookup("/Parser/edit_streetnames.csv",",");
+		editStreets = new DataLookup("/gov.nyc.moda.geocoder.parser/edit_streetnames.csv",",");
 		StreetMatch = new NameMatch(editStreets, "boronum_g", "streetname_g");
 		
-		allStreets = new DataLookup("/Parser/all_streetnames.csv",",");
+		allStreets = new DataLookup("/gov.nyc.moda.geocoder.parser/all_streetnames.csv",",");
 		validStreets = allStreets.KeyLookup("streetname_g", "streetname_g"); 		
 		
-		allCities = new DataLookup("/Parser/ny_cities.csv",",");
+		allCities = new DataLookup("/gov.nyc.moda.geocoder.parser/ny_cities.csv",",");
 		CityMatch = new NameMatch(allCities, "name");
 	}
 	
@@ -57,7 +57,7 @@ public class Parser {
 		s=compbl(s.replaceAll("[^A-Za-z0-9\\s]", " ")).trim();
 
 		// replace st with saint where appropriate 
-		file = new In("/Parser/saints.csv");
+		file = new In("/gov.nyc.moda.geocoder.parser/saints.csv");
 		while (!file.isEmpty() && s.indexOf("ST")>=0) {
             t = file.readLine();
             s = s.replaceAll("(\\b|^)ST " + t, "SAINT " + t);
@@ -92,7 +92,7 @@ public class Parser {
 		s = compbl(s);
 
 		// expand suffixes
-		file = new In("/Parser/suffixes.csv");
+		file = new In("/gov.nyc.moda.geocoder.parser/suffixes.csv");
 		while (!file.isEmpty()) {
             t = file.readLine();
             spl = t.split(",");
@@ -101,7 +101,7 @@ public class Parser {
 		file.close();
 		
 		// expand unit aliases
-		file = new In("/Parser/units.csv");
+		file = new In("/gov.nyc.moda.geocoder.parser/units.csv");
 		while (!file.isEmpty()) {
             t = file.readLine();
             spl = t.split(",");
@@ -110,7 +110,7 @@ public class Parser {
 		file.close();
 		
 		// change misspellings
-		file = new In("/Parser/misspellings.csv");
+		file = new In("/gov.nyc.moda.geocoder.parser/misspellings.csv");
 		while (!file.isEmpty()) {
             t = file.readLine();
             spl = t.split(",");
