@@ -1,14 +1,33 @@
 package gov.nyc.moda.geocoder;
 
-import static org.junit.Assert.*;
-
+import org.junit.Before;
 import org.junit.Test;
 
 public class GeocodeTest {
 
-	@Test
-	public void test() {
-		fail("Not yet implemented");
-	}
+    private Geocode geocode;
 
+    @Before
+    public void setup() {
+        final String inputFilePath = "";
+        final String outputFilePath = "";
+        final String columnCharDelimiter = "";
+        final String columnNameForBuildingNumber = "";
+        final String columnNameForStreetName = "";
+        final String columnNameForZipCode = "";
+        final String columnNameForBorough = "";
+        final String columnNameForCity = "";
+
+        geocode = new Geocode(inputFilePath, outputFilePath,
+                columnCharDelimiter,
+                columnNameForBuildingNumber, columnNameForStreetName,
+                columnNameForZipCode, columnNameForBorough,
+                columnNameForCity);
+    }
+
+    @Test
+    public void test() {
+
+    }
 }
+
