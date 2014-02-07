@@ -9,20 +9,16 @@ public class GeocodeTest {
 
     @Before
     public void setup() {
-        final String inputFilePath = "";
-        final String outputFilePath = "";
-        final String columnCharDelimiter = "";
+        final String inputFilePath = "Geocoder/valid_addresses_.csv"; // "GoodTestDataManyColumns.csv";
+        final String outputFilePath = "output/GoodTestDataManyColumns.csv";
+        final String columnCharDelimiter = ",";
         final String columnNameForBuildingNumber = "";
-        final String columnNameForStreetName = "";
+        final String columnNameForStreetName = "address"; //"street";
         final String columnNameForZipCode = "";
         final String columnNameForBorough = "";
         final String columnNameForCity = "";
 
-        geocode = new Geocode(inputFilePath, outputFilePath,
-                columnCharDelimiter,
-                columnNameForBuildingNumber, columnNameForStreetName,
-                columnNameForZipCode, columnNameForBorough,
-                columnNameForCity);
+        geocode = new Geocode(inputFilePath, outputFilePath, columnCharDelimiter, columnNameForBuildingNumber, columnNameForStreetName, columnNameForZipCode, columnNameForBorough, columnNameForCity);
     }
 
     @Test

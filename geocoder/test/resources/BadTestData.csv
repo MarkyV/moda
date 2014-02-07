@@ -1,0 +1,3249 @@
+street,zip_code,state,boro
+145 Margin St,1841,MA,
+1083 Blue Hills,6002,CT,
+26 farmstead circle,6002,CT,
+32 wood rd,6053,CT,
+786 Tower Ave,6112,CT,
+235 COURT SQUARE,6457,CT,
+37 amos st,6606,CT,
+95 overland  ave,6606,CT,
+257 a wlliam st,6608,CT,
+301 Stillman Street,6608,CT,
+586 park st,6608,CT,
+15 Wildfire Ln,6611,CT,
+249 Bruce Ave,6615,CT,
+288 wall street,6704,CT,
+19 Oakridge Street,6830,CT,
+620 Gorge Rd,7010,NJ,
+639 Paulison Avenue,7011,NJ,
+251 Speer Av,7013,NJ,
+16 LINCOLN STREET,7022,NJ,
+2340 Linwood Ave,7024,NJ,
+P.O. Box 2109,7024,NJ,
+514 OBSERVER HWY,7030,NJ,
+932 Washington Street,7030,NJ,
+1512 Nort Stiles Street,7036,NJ,
+1512 North Stilles Street,7036,NJ,
+637 ACADEMY TERRACE,7036,NJ,
+7200 Adams St,7047,NJ,
+17 Morrissee Ave,7057,NJ,
+2222 Academy Street,7079,NJ,
+666 Sinclair Terrace,7079,NJ,
+20 48TH STREET,7086,NJ,
+436 Gregory Ave,7086,NJ,
+100 Manhattan ave,7087,NJ,
+1006 Palisade Ave,7087,NJ,
+1100 Palisade Avenue,7087,NJ,
+2303 Bergenline Ave,7087,NJ,
+215 64TH STREET,7093,NJ,
+55 River Walk Place,7093,NJ,
+20 Village Place,7094,NJ,
+314 Sea Isle Key,7094,NJ,
+189 HUNTERDON STREET,7103,NJ,
+148th East Kinney,7105,NJ,
+211 BADGER  AVENUE,7108,NJ,
+244 Orange Ave,7111,NJ,
+143 GOLDSMITH,7112,NJ,
+,7207,NJ,
+327 CHERY STREET,7208,NJ,
+303 Varick St,7302,NJ,
+89 Wayne STreet,7302,NJ,
+422 Bergen Ave,7304,NJ,
+130 PKWY,7305,NJ,
+356 Lembeck Ave,7305,NJ,
+117 Magnolia Ave,7306,NJ,
+33 ALAN TERRACE,7306,NJ,
+39 Corbin Avenue,7306,NJ,
+98 Tonnelle Ave,7306,NJ,
+134 Zabrieskie,7307,NJ,
+33 Thorn Street,7307,NJ,
+425 Washington Blvd,7310,NJ,
+1113 Bellair Ave,7410,NJ,
+304 17th Ave,7504,NJ,
+196 Berdan Place,7601,NJ,
+252 East Fortlee Road,7603,NJ,
+252 Fort Lee Road,7603,NJ,
+60 East Linen Ave,7631,NJ,
+,7643,NJ,
+26 norwood ave,7644,NJ,
+218 B fowler Drive,7646,NJ,
+20 West Harriet Ave,7650,NJ,
+41 B East Harwood Terrace,7650,NJ,
+41 B Ettarwood Terrace,7650,NJ,
+41B E. Harwood Terrace,7650,NJ,
+117 Hirliman Road,7666,NJ,
+63 Selvage Ave,7666,NJ,
+,7871,NJ,
+937 MT HOLLY ROAD,7875,NJ,
+30-3rd avenue,7974,NJ,
+19 manchester way,8016,NJ,
+412 Winding Way,8021,NJ,
+42 s sunset,8046,NJ,
+18 Station Rd,8512,NJ,
+144 Dorchester Drive,8520,NJ,
+42 Marshall Avenue,8610,NJ,
+50 Francis Ave,8629,NJ,
+227 ANDOVER PLACE,8691,NJ,
+21 Morgan Dr,8817,NJ,
+16 Harbor Terrace,8861,NJ,
+454 Compton Ave,8861,NJ,
+894 Harned Street,8861,NJ,
+52 west brown street,8876,NJ,
+,10001,NY,
+117 Mullberry Street,10001,NY,
+1304 New York Ave,10001,NY,
+244 5th St Ave,10001,NY,
+390 9th street,10001,NY,
+80-09 35th ave,10001,NY,
+Not Given,10001,NY,
+Not given,10001,NY,
+,10002,NY,
+179 Station St.,10002,NY,
+257 Clifton St,10002,NY,
+3848 Rutgers Street,10002,NY,
+39 Bowery St,10002,NY,
+460 grandst,10002,NY,
+504 H grand Street,10002,NY,
+6854 Water Street,10002,NY,
+New York,10002,NY,
+111 east 14th streer,10003,NY,
+141 Easr 13th street,10003,NY,
+225 east 5thavenue,10003,NY,
+230 East 15thSt.,10003,NY,
+317 Bowery Ave,10003,NY,
+337 EAST 7TH STREET,10003,NY,
+,10005,NY,
+2067 Steinway St,10005,NY,
+,10008,NY,
+,10009,NY,
+1141 FDR Drvie,10009,NY,
+187 EAST 4YTHN STREET,10009,NY,
+209 EAST 7TH STRETE,10009,NY,
+238  E,10009,NY,
+269 4 east,10009,NY,
+3 HAVEN PALZA,10009,NY,
+3 Haven Pl,10009,NY,
+373E 85 Street,10009,NY,
+50 AVENUE,10009,NY,
+503 E6th Street,10009,NY,
+640 EAST 5TH AVENUE,10009,NY,
+8997 Ave C,10009,NY,
+330 East 26th Treet,10010,NY,
+,10011,NY,
+237 West 15th Ave,10011,NY,
+265 w20th st,10011,NY,
+327 west 21ststreet,10011,NY,
+1049 sumifrlis st,10012,NY,
+130 West Houston Place,10012,NY,
+285 motts street,10012,NY,
+,10013,NY,
+342 Broadway,10013,NY,
+87-80 Merrick Blvd.,10013,NY,
+33 BANK STRETE,10014,NY,
+380 WEST 12TH STRET,10014,NY,
+117 east 37thstreet,10016,NY,
+160 East 38thStreet,10016,NY,
+31 E31st Street,10016,NY,
+Bellvue Family Shelter,10016,NY,
+150 east 44tth stret,10017,NY,
+299 18th Ave,10017,NY,
+5 TUDOR CITIPLACE,10017,NY,
+454 th Ave,10018,NY,
+2230 West,10019,NY,
+3521 56th street,10019,NY,
+44 WEST 55TH STRET,10019,NY,
+540 WEST 52NDSTREET,10019,NY,
+,10021,NY,
+310 E71 ST,10021,NY,
+311 East 50th Strete,10022,NY,
+400 East 50thSt.,10022,NY,
+,10023,NY,
+,10024,NY,
+168 W77 Street,10024,NY,
+22350 Broadway,10024,NY,
+483 WEST WNED AVENUE,10024,NY,
+483 west end avene,10024,NY,
+,10025,NY,
+1218 west 109 st,10025,NY,
+1223 WEST 104TH STREET,10025,NY,
+210 102 West,10025,NY,
+219 121 ST STREET,10025,NY,
+305 West 97thStreet,10025,NY,
+689 ColumbusAve,10025,NY,
+74 W92nd St,10025,NY,
+74 West 92 Rd,10025,NY,
+787 North Williams St,10025,NY,
+875 colombus 7th  st,10025,NY,
+925 west ave,10025,NY,
+95 West 9th st,10025,NY,
+988 West 189 Street Columbos Ave,10025,NY,
+,10026,NY,
+114 WEST 117THSTREET,10026,NY,
+131 w118th Street,10026,NY,
+1390 5THAVENUE,10026,NY,
+1845 7thAve,10026,NY,
+18787th Ave,10026,NY,
+1925 St Nicholas Avenue,10026,NY,
+258 West 117thSt,10026,NY,
+45 CENTRAL PARK AVENUE,10026,NY,
+50 Est 112th St,10026,NY,
+,10027,NY,
+1 CONVENANT AVENUE,10027,NY,
+1 COVENT AVENUE,10027,NY,
+1470 AMSTERDAN AVENUE,10027,NY,
+2010 7thAvenue,10027,NY,
+2034 7thAvenue,10027,NY,
+210 West 128th Street,10027,NY,
+22 Covent avenue,10027,NY,
+230 EST 131 STREET,10027,NY,
+247 West 131stSt,10027,NY,
+25 ST NICOLAS TR,10027,NY,
+3150 Broadway Avenue,10027,NY,
+3153Broadway,10027,NY,
+3844 West 129th Street,10027,NY,
+410 West Saint Nicholas Avenue,10027,NY,
+410 east 104st.,10027,NY,
+55 Street,10027,NY,
+75 LASALLE 124TH STREET,10027,NY,
+,10028,NY,
+300 East 86thSt.,10028,NY,
+515 east 85thSt.,10028,NY,
+,10029,NY,
+1012 East 108 Street,10029,NY,
+1211 East 100th Street,10029,NY,
+1309 5thave,10029,NY,
+14 east 116th stret,10029,NY,
+1410Park Avenue,10029,NY,
+1416 EAST 105TH STREET,10029,NY,
+162 East 109thSt,10029,NY,
+171 EAST 109TH STRETE,10029,NY,
+18 East 109thSt,10029,NY,
+1924 Segunda Ave,10029,NY,
+201 81ST STREET,10029,NY,
+2112 2nd Avneue,10029,NY,
+221 Eas 106th St,10029,NY,
+2215 Ast Ave,10029,NY,
+2215AstAve,10029,NY,
+233 least 111th street,10029,NY,
+314 E112Street,10029,NY,
+401 East 107th Street,10029,NY,
+425 East 105thStreet,10029,NY,
+425 Last 105 Street,10029,NY,
+80 EAST 110TH STRET,10029,NY,
+,10030,NY,
+102 West 138thSt,10030,NY,
+102 West 144thSt,10030,NY,
+104 W139th St.,10030,NY,
+180 West 135ThSt,10030,NY,
+200 W143 ST,10030,NY,
+2262 adam clayton,10030,NY,
+80 edgecombleave,10030,NY,
+,10031,NY,
+1492 Amsterdam Avennue,10031,NY,
+28 San Nicholes Pl,10031,NY,
+289 COVENT AVENUE,10031,NY,
+33 33 Broadway,10031,NY,
+333 Broadway,10031,NY,
+3333Broadway,10031,NY,
+34 55 broadway,10031,NY,
+345 West 1045th St,10031,NY,
+391 Convert Ave,10031,NY,
+5030 West 152 Street,10031,NY,
+540 est 136th St,10031,NY,
+556 west 141stSt.,10031,NY,
+561 East 141st St.,10031,NY,
+569 W150Th Street,10031,NY,
+605 West 137thSt.,10031,NY,
+630 East 140 Street,10031,NY,
+725 w 142nd st,10031,NY,
+8617 Amsterdam Av,10031,NY,
+,10032,NY,
+123 Fake Street,10032,NY,
+131 West 165th Street,10032,NY,
+170 WEST 156 STREET,10032,NY,
+2102 Amsterdan,10032,NY,
+260 W. 179th street,10032,NY,
+470 West 159thSt,10032,NY,
+473 West 158thSt,10032,NY,
+508 West 166thSt.,10032,NY,
+517 e 159 th st,10032,NY,
+545 WEST 172ND STREET,10032,NY,
+575 West 15 Street,10032,NY,
+595 W. 164 St,10032,NY,
+600 West 161stSt,10032,NY,
+601 West 160thSt,10032,NY,
+601 West 173rdSt,10032,NY,
+601 west 172ndSt.,10032,NY,
+611 West 163rdSt.,10032,NY,
+621 West 172 Stret,10032,NY,
+66 St. Nicolas Placw,10032,NY,
+6664 WEST 163RD STREET,10032,NY,
+700 West 72nd St,10032,NY,
+935 935 St Nicholas Ave,10032,NY,
+PO Box 321-722 Fort Washington Station,10032,NY,
+,10033,NY,
+1365 West Saint Nicholas Avenue,10033,NY,
+1469 St.Nicholas Aveenue,10033,NY,
+217 HavenAve.,10033,NY,
+220 de Audubon,10033,NY,
+25 Pinehurst Ave,10033,NY,
+2N Pinehurst Ave,10033,NY,
+4 South Pinchurs Av,10033,NY,
+408 de Audubon  Ave,10033,NY,
+500 West 175thSt,10033,NY,
+501 West 175thStreet,10033,NY,
+516 West 175thSt,10033,NY,
+523 West b187th Street,10033,NY,
+556 west 185th stret,10033,NY,
+580 West 176thSt,10033,NY,
+600 W 124 St,10033,NY,
+660 West 180thSt.,10033,NY,
+825 West 129th Street,10033,NY,
+N/A,10033,NY,
+,10034,NY,
+1204 Sherman Ave,10034,NY,
+128 Cherman Ave,10034,NY,
+240 Nagle St,10034,NY,
+3339 Post Avenue,10034,NY,
+38 PostAve,10034,NY,
+41PARK TERRACE WEST,10034,NY,
+5 Seaman Place,10034,NY,
+5000 Broadway Avenue,10034,NY,
+501 W214 Th Street,10034,NY,
+526 werst 211st street,10034,NY,
+565 Academic Street,10034,NY,
+61 PostAve,10034,NY,
+616 Academy Ave,10034,NY,
+"639 W207 St, New York, NY",10034,NY,
+639 W207 st,10034,NY,
+641 West 208 St,10034,NY,
+,10035,NY,
+1 Keener Ward Allen,10035,NY,
+106-47 Waltham Street,10035,NY,
+117 EAST 118TH STRET,10035,NY,
+1851 Phelan Place,10035,NY,
+188 PARK AVENUE,10035,NY,
+21771 3rd avenue,10035,NY,
+2400 2nd Avenue E 124th Street,10035,NY,
+8180 3 ave,10035,NY,
+127 West 43rdStreet,10036,NY,
+433 Lennox Ave,10036,NY,
+One River Place,10036,NY,
+,10037,NY,
+2120 Madison Avenue 135th Street,10037,NY,
+22948th Avenue,10037,NY,
+437-439 MALCOM X BLVD,10037,NY,
+620 Malcom X Blvd,10037,NY,
+620 malcom x bv,10037,NY,
+170 Park Row,10038,NY,
+40 annst,10038,NY,
+78 Cathein St,10038,NY,
+,10039,NY,
+13 WEST 137TH STREET LENOX AVENUE,10039,NY,
+159 - 38 Harlem River Drive,10039,NY,
+160 Bradhurst Avenue,10039,NY,
+210 w146th st,10039,NY,
+211 b west 154th street,10039,NY,
+267 W152 ST,10039,NY,
+2931 A AVE,10039,NY,
+298 B WEST 149TH STREET,10039,NY,
+99 McCombs St,10039,NY,
+12 Daong  PL,10040,NY,
+15*27 Sickles St,10040,NY,
+165 NagleAve,10040,NY,
+17 Fort George Hill,10040,NY,
+21 Broadway Bmst,10040,NY,
+245 Bennet Ave,10040,NY,
+281 WadsworthAve.,10040,NY,
+30 Dongan Ave,10040,NY,
+330 Wadworth Ave,10040,NY,
+4455 Broadway Ave,10040,NY,
+495 Wadsworth Terr,10040,NY,
+500 West 140thSt.,10040,NY,
+564 w.188th Stret,10040,NY,
+575 W189 Street,10040,NY,
+655 West 190thSt.,10040,NY,
+6571 Wadsworth Terrace,10040,NY,
+9 BWAY TERR,10040,NY,
+201 east 66trh street,10065,NY,
+200 EAST 78TH STRETE,10075,NY,
+,10087,NY,
+,10101,NY,
+,10108,NY,
+,10116,NY,
+7958 JAF station,10116,NY,
+11 Washington Heights,10118,NY,
+17 81ST AVENUE,10128,NY,
+1761 East 96th Street,10128,NY,
+220 Est 94th street,10128,NY,
+292 E 95th St,10128,NY,
+3340 90TH STREET,10128,NY,
+,10129,NY,
+,10150,NY,
+1210 Nelson Ave,10152,NY,
+,10156,NY,
+,10159,NY,
+,10163,NY,
+1225 New York Ave,10203,NY,
+201 Brillon,10203,NY,
+P.O. Box 1406,10268,NY,
+,10272,NY,
+PO Box 593,10272,NY,
+,10276,NY,
+,10301,NY,
+165 Sf Marks Pl,10301,NY,
+202 A Bay Street,10301,NY,
+260 Richmond Harris,10301,NY,
+360 Hoyt Ave,10301,NY,
+368 Hoyt Street,10301,NY,
+40 Casicy Place SI,10301,NY,
+84 St Paul Avenue,10301,NY,
+115 Jhon st,10302,NY,
+169 Nicoles Ave,10302,NY,
+390 Post Avenue,10302,NY,
+524 VILLA AVENUE,10302,NY,
+,10303,NY,
+15 B Harbor Loop,10303,NY,
+23 A Richmond Ct,10303,NY,
+38 MERCERAO AVENUE,10303,NY,
+38 Macormack place,10303,NY,
+,10304,NY,
+207 ST PAUL AVE,10304,NY,
+24 METCALF STREET,10304,NY,
+25 Reicot Ave,10304,NY,
+597 VAN DUZER AVE,10304,NY,
+67 B CLARKLANE,10304,NY,
+67 B LCARKLANE,10304,NY,
+PO BOX 40626,10304,NY,
+,10305,NY,
+186 Atope Avenue,10305,NY,
+198 Mayrland Ave,10305,NY,
+114 CEDARVIEW AVE,10306,NY,
+219 PEMROOK LP,10309,NY,
+49 Harrotts Ln,10309,NY,
+,10310,NY,
+17 clarion st,10310,NY,
+886 state street,10310,NY,
+90 ELIZABETH AVE,10310,NY,
+PO Box 100041,10310,NY,
+137 Hagan Pl.,10313,NY,
+245 F Signs Road,10314,NY,
+25 Union drive,10314,NY,
+34 ALGUARDIA AVENUE,10314,NY,
+38 calcagro st,10314,NY,
+4 Belmar Avenue,10314,NY,
+,10451,NY,
+109 West 153rd Street,10451,NY,
+123 Main St.,10451,NY,
+125 WALTON AVE,10451,NY,
+2615 East 141st  Street,10451,NY,
+281 East 143rd Streer,10451,NY,
+321 East 153rdSt.,10451,NY,
+340 E146 st,10451,NY,
+344 east 148thst,10451,NY,
+346 East 156 Strret,10451,NY,
+505 east 161rst st.,10451,NY,
+570 grand consourse avenue,10451,NY,
+705 Girard Ave,10451,NY,
+731 JEROD AVE,10451,NY,
+731 JERODAVE,10451,NY,
+754 elton  elton avenue,10451,NY,
+845 WEST END AVENUE,10451,NY,
+863 Melrose Avenuie,10451,NY,
+870 cortlandt avenue,10451,NY,
+871 brooke ave,10451,NY,
+900 East Grand Concourse,10451,NY,
+e   151 st,10451,NY,
+,10452,NY,
+1030 Budiecrest Ave,10452,NY,
+1065 GERALD AVE,10452,NY,
+1095 UniversityAve,10452,NY,
+111 Gerad Ave,10452,NY,
+114 east 158th street,10452,NY,
+11544 Walton Ave,10452,NY,
+1177ANDERSONAVE,10452,NY,
+125 B West 168 Street,10452,NY,
+128 East Clark Place,10452,NY,
+1307 Edward L Grant hgwy,10452,NY,
+1325 mEdward L. Grant Hgwy,10452,NY,
+133 Clark Place,10452,NY,
+135 B West 168th Street,10452,NY,
+135B Wets 168 Street,10452,NY,
+1380 Dr. Martin L King Jr Bv,10452,NY,
+1406ObendAve,10452,NY,
+1435 odgen ave,10452,NY,
+1447 Macombs St,10452,NY,
+15  E CLARCK PL,10452,NY,
+15  ECLARCK PL,10452,NY,
+15 East Clark Place,10452,NY,
+150 East Clark Place,10452,NY,
+1516 Walton Ave,10452,NY,
+153 East 165thStreet,10452,NY,
+1592 TESUP AVENUE,10452,NY,
+2120 Shakespeare Ave,10452,NY,
+2224 Marcy Place,10452,NY,
+300 east 89,10452,NY,
+50 E172 Street,10452,NY,
+64 Jesup Avenue,10452,NY,
+81 feathebedlane,10452,NY,
+963 Ad,10452,NY,
+EDWARD L GRANT HIGHWAY,10452,NY,
+,10453,NY,
+1089 Sedgwick Ave,10453,NY,
+111 West 183rds St,10453,NY,
+115 Henwood Avenue,10453,NY,
+135 we 175th st,10453,NY,
+1590 Underhill Ave,10453,NY,
+1647 nacomby rd,10453,NY,
+1665 Andrew Ave,10453,NY,
+1669University Avenue,10453,NY,
+1677 Grand Councourse,10453,NY,
+1690 east 164,10453,NY,
+1726 davison ave,10453,NY,
+1749 Grand Concourse Avenue,10453,NY,
+1752 Walto9n Avenue,10453,NY,
+1775Walton Ave,10453,NY,
+1777 Grand Concourse Avenue,10453,NY,
+1815 Davison Av,10453,NY,
+1851 Phelan Ave,10453,NY,
+1874 Loren Place,10453,NY,
+1881 boyton ave,10453,NY,
+1898 Harrison Aveue,10453,NY,
+1901 Lorting Pl.,10453,NY,
+1928 Dr. Martin Luther Kind Blvd.,10453,NY,
+1934 Mrtin L KG Bv,10453,NY,
+1939 grand concourse ave,10453,NY,
+1944 Andres Ave,10453,NY,
+2020 GrandAve,10453,NY,
+2110 Gran Ave,10453,NY,
+2255 Crescent Ave,10453,NY,
+2505 Lorillard Avenue,10453,NY,
+30 Richman Place,10453,NY,
+30 Richmn Plaza,10453,NY,
+40 Richmond Pl,10453,NY,
+69 W. Bursinde Ave,10453,NY,
+a west 182 st,10453,NY,
+190 Willow Street,10454,NY,
+190 WillowAve,10454,NY,
+352 Alexander Avenue,10454,NY,
+3621 East 137 Street,10454,NY,
+370 Brooke Avenue,10454,NY,
+383 East,10454,NY,
+383 east 145th street,10454,NY,
+430 E138Street,10454,NY,
+456  East 17th Street,10454,NY,
+584 w 137st,10454,NY,
+666 E141st street,10454,NY,
+961 E 138th st,10454,NY,
+,10455,NY,
+1851 Phelan Ave,10455,NY,
+251 e Grand st,10455,NY,
+325 East 143 treet,10455,NY,
+413 East 1542 Street,10455,NY,
+452 East 148thStreet,10455,NY,
+501 tompson place,10455,NY,
+551 Wallace Avenue,10455,NY,
+601 East 149thStreet,10455,NY,
+737 Southern Bloulevard,10455,NY,
+745 fos st,10455,NY,
+774 Park street,10455,NY,
+909 Ave of St. John's,10455,NY,
+,10456,NY,
+100 Clay Ave,10456,NY,
+100 Franklin Ave,10456,NY,
+1044 Morria Avenue,10456,NY,
+1064 carroll jpl,10456,NY,
+11 Findlay Avenue,10456,NY,
+"1108FINDLAY AVENUE,",10456,NY,
+1133 grand avenue,10456,NY,
+1156 Grand venue,10456,NY,
+1175 Finley Ave,10456,NY,
+1209 fidley ave,10456,NY,
+123 Fake Road,10456,NY,
+123 Main Street,10456,NY,
+1348 Wester Ave,10456,NY,
+1357 WASHINGTON AVENEUE,10456,NY,
+1357 Washington Avneue,10456,NY,
+1385 Fulton Street,10456,NY,
+1458 WESTERN AVE,10456,NY,
+205 College Ave,10456,NY,
+2640,10456,NY,
+288 Washington Ave,10456,NY,
+288 east 168ths treet,10456,NY,
+2881 PHILIP STREET,10456,NY,
+3425 Gates park,10456,NY,
+406 161 Melrose Avenue,10456,NY,
+45 C EDGEWATER PARK,10456,NY,
+488 e 164ths st,10456,NY,
+643 Jefferson Ave,10456,NY,
+760 EAST 160TH STRETE,10456,NY,
+765 East 1656th Street,10456,NY,
+765 eat 168th street,10456,NY,
+816 Tinton Aveue,10456,NY,
+905 tintonave,10456,NY,
+943 cheridan ave,10456,NY,
+957 Taylor Avenue,10456,NY,
+,10457,NY,
+1567Selwyn Avenue,10457,NY,
+1654 MONROEAVE,10457,NY,
+1704 Maurice Ave,10457,NY,
+1712 east 181st street,10457,NY,
+1796 GRAND CONCOURSE AVE,10457,NY,
+1975 Pathgate Ave,10457,NY,
+2111 Lafointe Avenue,10457,NY,
+2141Belmont Ave,10457,NY,
+216 Tiebout Ave,10457,NY,
+221 East Treemon Ave,10457,NY,
+2240 Grand Concourse Avenue,10457,NY,
+2264,10457,NY,
+2316 ECHO PLACE,10457,NY,
+250 East 1756 Street,10457,NY,
+285 east 171rst st.,10457,NY,
+425 claremont pwy,10457,NY,
+538 clairmont Parkway,10457,NY,
+538 clarmont pky,10457,NY,
+740 E 170 ST,10457,NY,
+753 crotona pky north,10457,NY,
+780 CVW,10457,NY,
+941 Simpson  Ave,10457,NY,
+1220 Shakspre Ave,10458,NY,
+142-11 linden blvd,10458,NY,
+1975 Birchell Ave,10458,NY,
+1975 Brichall Ave,10458,NY,
+2010 e 201st st,10458,NY,
+2326 Bryer Avenue,10458,NY,
+2328,10458,NY,
+259 Bainbridge Avenue,10458,NY,
+2600 MIRON AVE,10458,NY,
+2640 VALENTINES,10458,NY,
+2640 merrian avenue,10458,NY,
+266 Briggs Ave,10458,NY,
+27032 Bainbridge Ave,10458,NY,
+2960 Grand Conc,10458,NY,
+340 East 181 Streetq,10458,NY,
+"505 East 184th Streeet, Bronx, NY",10458,NY,
+61 Bruckaner Blvd,10458,NY,
+90 Rickmond Hill rd,10458,NY,
+PO Box 580303,10458,NY,
+,10459,NY,
+1002 ast 167 Street,10459,NY,
+1058 southrn blv,10459,NY,
+1079 haul,10459,NY,
+1080 Simpson Stree,10459,NY,
+120 HALL PLACE,10459,NY,
+"120 HALL PLACE,",10459,NY,
+1323 Lew Nine Boulevard,10459,NY,
+1394 Bristle Street,10459,NY,
+1397 Stebbin Avenue,10459,NY,
+691 East 167th Street,10459,NY,
+815 Simpson Street,10459,NY,
+820 rev james polite,10459,NY,
+870 Southern Boluevard,10459,NY,
+916 souther blv,10459,NY,
+947 Bruckner Blve,10459,NY,
+948 Rev James Polite Blvd,10459,NY,
+978 HOLMES,10459,NY,
+979 Oldus Street,10459,NY,
+,10460,NY,
+10296 East 180 Street,10460,NY,
+1440 Crotona Ave,10460,NY,
+1523 East Taylor Ave,10460,NY,
+1566 VSYE AVENUE,10460,NY,
+1743 Grafield Ave,10460,NY,
+1926 crotona prwy,10460,NY,
+1980 Daley Avenue,10460,NY,
+2111 southern blv,10460,NY,
+2136 crotona park,10460,NY,
+437morris park ave,10460,NY,
+785 crotona avenue,10460,NY,
+819 east teamont,10460,NY,
+"CROTONA PARKWAY,",10460,NY,
+one square plaza,10460,NY,
+1400 Benson Ave,10461,NY,
+1400 Benson Avenue,10461,NY,
+1522 HOBNE AVENUE,10461,NY,
+1625 Benson Stree,10461,NY,
+1853 Height Ave,10461,NY,
+3015 roperts st,10461,NY,
+3108 Wilkerson Ave,10461,NY,
+,10462,NY,
+1470 parkchester ave,10462,NY,
+1475 Park Ave,10462,NY,
+1590 Metroploiltan Avenue,10462,NY,
+18 90 Union Port Rd,10462,NY,
+1852 Mathew Ave,10462,NY,
+2155 bolton ast,10462,NY,
+2160 Bolton Avenue,10462,NY,
+2187 Matthew Ave,10462,NY,
+2231 MANNING IL,10462,NY,
+63 Metropolitan Ave,10462,NY,
+,10463,NY,
+150 W225 Street,10463,NY,
+2907 Kingbrige Terr,10463,NY,
+3044 albany cr,10463,NY,
+3140KINGSBRIDGE AVenue,10463,NY,
+3410 King Brigde Ave,10463,NY,
+3801Hudson Manor Terrace,10463,NY,
+3855 Beily Ave,10463,NY,
+398 Kingsbridge Ave,10463,NY,
+750 Kappock Stret,10463,NY,
+,10465,NY,
+2021 Dewey Ave,10465,NY,
+2700 Randou Ave.,10465,NY,
+2761 Samson Ave,10465,NY,
+,10466,NY,
+1219 East 223rd stret,10466,NY,
+1300 east 224th stret,10466,NY,
+1920 Schiefflein Avenue,10466,NY,
+1920 sheiffelin ave,10466,NY,
+1933 Strong Avenue,10466,NY,
+1965 Schiefflin Avenue,10466,NY,
+4158Barnes Ave,10466,NY,
+4219 B DEREIMER AV,10466,NY,
+4364 Bryn Avenue,10466,NY,
+4377 Eli Avenue,10466,NY,
+4377Ely Ave,10466,NY,
+655 8228th st,10466,NY,
+689 E 233 Road Street,10466,NY,
+834 East 27th Street,10466,NY,
+,10467,NY,
+135 Pelham Pkway,10467,NY,
+2002 Olinville Ave,10467,NY,
+2254 Cruger Ave,10467,NY,
+227 Moshulu Parkway North Street,10467,NY,
+25 E MOSHOLO PARK WAY,10467,NY,
+2526 Brox Park East,10467,NY,
+2758 Kruger Avenue,10467,NY,
+2859Barker Ave,10467,NY,
+2925 Mathews Ave,10467,NY,
+2953 Bonds Avenue,10467,NY,
+30 East 108th Street,10467,NY,
+3028 Mathews Ave,10467,NY,
+3155 rochambue,10467,NY,
+320 Reservoir Oval East,10467,NY,
+3212Decatur Avenue,10467,NY,
+3400 TYRON AVENUE,10467,NY,
+3444 Nox Pl,10467,NY,
+345 E205 ST,10467,NY,
+3504 rochanview ave,10467,NY,
+3511Barnes Avenue,10467,NY,
+51 Wmosholo Pkway North,10467,NY,
+721 East 216thStreet,10467,NY,
+735 Magenta Ave,10467,NY,
+746 Eat 215th street,10467,NY,
+836 Tilden Ave,10467,NY,
+848,10467,NY,
+946 Williamsbridge Road,10467,NY,
+,10468,NY,
+2085 clatin avenue,10468,NY,
+2374,10468,NY,
+2435 Cresto Ave,10468,NY,
+244 Devoe Terrace,10468,NY,
+2506 Devoe Treeace,10468,NY,
+2529B,10468,NY,
+2543 Cersent Ave,10468,NY,
+26 FOX CHARLES PLACE,10468,NY,
+2728 Morris Ave,10468,NY,
+2764 Creston Plaza,10468,NY,
+2825 Clafin Ave,10468,NY,
+2825 Clafin Ave.,10468,NY,
+3 Forest Hill Ave,10468,NY,
+5 fordham,10468,NY,
+9 w 193 st,10468,NY,
+PO Box 530,10468,NY,
+PO Box 646,10468,NY,
+Walker3235 Grand Concourse,10468,NY,
+3012 lacononia,10469,NY,
+3255 Colden Avenue,10469,NY,
+3317 Golden Ave,10469,NY,
+346 Fenton Ave,10469,NY,
+858 Crawford Ave.,10469,NY,
+921 east 211sth Street,10469,NY,
+443 Carpenter Ave,10470,NY,
+22 94 96 Av,10471,NY,
+,10472,NY,
+1030 boyton avenue,10472,NY,
+1223 White Plane Rd,10472,NY,
+1319 Lawrence Avenue,10472,NY,
+1334 Nanor Avenue,10472,NY,
+140305 rosedale ave,10472,NY,
+1521 Thieriot Avenue,10472,NY,
+1725 bruckner blv,10472,NY,
+1773Watson Avenue,10472,NY,
+1820 Noble Ave,10472,NY,
+1960 Cross Bronx Exressway,10472,NY,
+2000 wllis ave,10472,NY,
+54 STRATFORD AVE,10472,NY,
+,10473,NY,
+1 white plains rd,10473,NY,
+142 SOUND AVE,10473,NY,
+1695Banyer Pl,10473,NY,
+1760 BROOKLYN BLVD,10473,NY,
+1870 Lafallet,10473,NY,
+2040 bruckner bld,10473,NY,
+2246 Holmer Ave,10473,NY,
+309 Admiral Lane,10473,NY,
+450 Olmsteave ave,10473,NY,
+733 SOUNDVIEW AVENUE,10473,NY,
+817 Story Avenue,10473,NY,
+820 golgate,10473,NY,
+875 Morisson Ave,10473,NY,
+875 boyton ave,10473,NY,
+904 Boyton Avenue,10473,NY,
+1313Seneca Ave,10474,NY,
+642 B Manida St,10474,NY,
+811ALongfellowAvenue,10474,NY,
+860 BRYAN AVE,10474,NY,
+875 IRVING STREET,10474,NY,
+895 Irving Street,10474,NY,
+100 Beschly Place,10475,NY,
+2244 Tilison Ave,10475,NY,
+3410 Dereima Avenue,10475,NY,
+,10510,NY,
+420 S RIverside Ave,10520,NY,
+4 Fieldstone Dr,10530,NY,
+611 Barrett Hill Road,10541,NY,
+741 meadow st,10543,NY,
+"10454, Bronx, NY",10545,NY,
+136 Rich Ave 1,10550,NY,
+144 West 5th street,10550,NY,
+161 E Sidney Ave,10550,NY,
+21 North Bond Street,10550,NY,
+342 S 8th Avenue,10550,NY,
+343 S 8th Avenue,10550,NY,
+35 Rochelle Terrace,10550,NY,
+499 MUNDY LANE,10550,NY,
+529 South 11 Ave,10550,NY,
+57 North Street,10550,NY,
+633 south fifth avenue,10550,NY,
+649 So 8th Avenue,10550,NY,
+661 SOUTH 7TH AVE,10550,NY,
+,10551,NY,
+260 Hutchinson Blvd,10552,NY,
+317 No. Fulton Avee,10552,NY,
+448 N High St,10552,NY,
+505 east Lincoln Avenue,10552,NY,
+80 West Grand St,10552,NY,
+33 Darwood Pl,10553,NY,
+350 Egmont Ave,10553,NY,
+355 South Columbus Avenue,10553,NY,
+447 Dunhan Ave,10553,NY,
+447 dunham ave,10553,NY,
+108 ROLLINGWAY,10566,NY,
+1110 Frost Lane,10566,NY,
+602 Homestead Avenue,10566,NY,
+644 Cathrine St,10566,NY,
+644 Ringgold Street,10566,NY,
+77 Birch Brook Rd,10567,NY,
+695 Sprout Brook Road,10579,NY,
+1240 Crestward Ave,10588,NY,
+182 WILSON PARK DR,10591,NY,
+300 south broadway,10591,NY,
+,10598,NY,
+2763 Moreland St,10598,NY,
+69 North Broadway,10603,NY,
+,10701,NY,
+138 South Broadway,10701,NY,
+138 South Broadway Avenue,10701,NY,
+305 Prescott St,10701,NY,
+309 n broadway,10701,NY,
+357 north Broadway,10701,NY,
+395 Palmer Road,10701,NY,
+441 NORTH BROADWAY,10701,NY,
+55 Ravine Ave.,10701,NY,
+85 Riversale Ave,10701,NY,
+95-117 RAVINE AVENUE,10701,NY,
+95-117 Ravine Ave,10701,NY,
+,10703,NY,
+31 Tower place,10703,NY,
+1296 Midland Ave,10704,NY,
+1304 Midland Avenue,10704,NY,
+711 MILES SQ RD,10704,NY,
+1 Caryl Avenue,10705,NY,
+125 Elliott Ave,10705,NY,
+14 COYLE PL,10705,NY,
+180 Hawthorne Ave.,10705,NY,
+192 Hawthorne Ave,10705,NY,
+260 South Broadway,10705,NY,
+27 BRUCE AVENUE,10705,NY,
+60,10705,NY,
+622 Van Courtlandt Park Avenue,10705,NY,
+82 Caryl Ave,10705,NY,
+85 Saint Andrews Place,10705,NY,
+90 Caryl Ave,10705,NY,
+92 Bajart Place,10705,NY,
+3 Consulate Dr.,10707,NY,
+1234 MIDLAND,10708,NY,
+81 PONDFIELD ROAD,10708,NY,
+1296 midland ave,10709,NY,
+11 Dearborn Street,10710,NY,
+11 Dearborne Street,10710,NY,
+133 Jennifeer Lane,10710,NY,
+1841 Central Park Ave,10710,NY,
+3 Sadore Lane,10710,NY,
+32 Eisenhhower Drive,10710,NY,
+37 NEWKIRK RD,10710,NY,
+43 Chelsea Place,10710,NY,
+118 Cooper Dr,10801,NY,
+122 Emerson Avenue,10801,NY,
+54 Kress Ave,10801,NY,
+125 4th Avenue,10803,NY,
+940 WYNNEWOOD RD,10803,NY,
+212 Pine Brook Blvd,10804,NY,
+13 Lane Crest Ave,10805,NY,
+130 Pelham Road,10805,NY,
+140 Pellam RD,10805,NY,
+217 drake ave,10805,NY,
+248 Drake Ave,10805,NY,
+569 pelham rd,10805,NY,
+769 pelham rd,10805,NY,
+305 Spook Rock Rd,10901,NY,
+1500 Whispering Hills Drive,10918,NY,
+18 Kinsman Lane,10923,NY,
+64 SEVENS SPRINGS ROAD,10930,NY,
+64 Peach Pl,10940,NY,
+206 WEST MAPLE,10952,NY,
+916 route 9 w,10960,NY,
+916 route 9w,10960,NY,
+24 County Route 49,10973,NY,
+18 wolfe dr.,10977,NY,
+26 Adele Blvd,10977,NY,
+81 Heitman Drive,10977,NY,
+24 Mila Rd,10990,NY,
+59 Matone Circle,10993,NY,
+106 Birch St.,11001,NY,
+22507 95TH AVENUE,11001,NY,
+108 Marguerite Ave,11003,NY,
+113 Silver St,11003,NY,
+118 Franklin St,11003,NY,
+118 Franklinst,11003,NY,
+"152 Roquette Ave Elmont, NY",11003,NY,
+1520 Adelle Ct,11003,NY,
+155 Oakley Ave,11003,NY,
+18 Sussex road,11003,NY,
+185 franklin st,11003,NY,
+2157 Oakwood Pl,11003,NY,
+2186 Dutch Broadway,11003,NY,
+253 Gotham Ave,11003,NY,
+579 Keller ave,11003,NY,
+688 Frick St.,11003,NY,
+90 Stene St,11003,NY,
+99 Marguerete,11003,NY,
+"Elmont, NY",11003,NY,
+239 Semton Blvd,11010,NY,
+,11022,NY,
+126 wooles lane,11023,NY,
+5 DEVONSHIRE LANE,11023,NY,
+30-34 Jk Mts,11027,NY,
+129 Claudy Lane,11040,NY,
+143 south drive,11040,NY,
+65 Ragle Ave.,11040,NY,
+80 11  269 St Hyde Park,11040,NY,
+14-76 Beach Channel Dr,11096,NY,
+385 Bayview Ave.,11096,NY,
+49 clinton ave,11096,NY,
+,11101,NY,
+1305-40th Ave,11101,NY,
+1702 Second Ave,11101,NY,
+"21-10 Wooden Ave.,",11101,NY,
+4-11 Vernon Blvd,11101,NY,
+"40-1010th Street,",11101,NY,
+4006 12TH AVENUE,11101,NY,
+41-11 12thStreet,11101,NY,
+41100,11101,NY,
+,11102,NY,
+14-15 3rd Road,11102,NY,
+23-30Astoria Blvd,11102,NY,
+24-45 Astoria,11102,NY,
+2734 14THSTREET,11102,NY,
+30*45 330street,11102,NY,
+30-44 23st Astoria NY,11102,NY,
+32-30 12th Street,11102,NY,
+4-21 27TH STREET,11102,NY,
+41496 27 ave,11102,NY,
+4149627ave,11102,NY,
+421 27TH STREET,11102,NY,
+8-1027th Ave,11102,NY,
+,11103,NY,
+16-41 Madison ave,11103,NY,
+63 hill st. Brooklyn NY,11103,NY,
+39-34 Skewman ave.,11104,NY,
+41-22 42St 6F,11104,NY,
+411 48 St,11104,NY,
+45-2542ndStreet,11104,NY,
+6324 43rd St,11104,NY,
+18-10 21th Street,11105,NY,
+2007-43st,11105,NY,
+"2177 19THSTREET,",11105,NY,
+3-15 12th street,11106,NY,
+31 36 Astoria,11106,NY,
+32-37 12th Street,11106,NY,
+34-21 12TH STREET,11106,NY,
+"35-47 34th, LIC",11106,NY,
+35-52 10th Avenue,11106,NY,
+4509 5th avenue,11120,NY,
+Brooklyn NY,11120,NY,
+,11201,NY,
+111ks street,11201,NY,
+116 Williams Street,11201,NY,
+140 baibey street,11201,NY,
+224 yourk street,11201,NY,
+247 Front St,11201,NY,
+"555 OvingtonAve,",11201,NY,
+,11202,NY,
+1800Pitkin Avenue,11202,NY,
+,11203,NY,
+265 East 82nd Street,11203,NY,
+394 East 185 St,11203,NY,
+5507 King Highway,11203,NY,
+601 AlbanyAve,11203,NY,
+647 Ruthland Avenue,11203,NY,
+655 Hawthorn,11203,NY,
+806 East St,11203,NY,
+890 BrooklynAve,11203,NY,
+963 Vtica ave,11203,NY,
+104 Carton Ave,11205,NY,
+1477 fulton ave,11205,NY,
+21st Jame Pl,11205,NY,
+5 SPENCER AVENUE,11205,NY,
+8  MOUMENT AVE,11205,NY,
+82 Sean Edwards Street,11205,NY,
+88 & st. edwards street,11205,NY,
+1 Heart St,11206,NY,
+10 Forest Av,11206,NY,
+108 Steggwalk,11206,NY,
+12 Siegel Ct.,11206,NY,
+132 Nou St,11206,NY,
+153 Marcus,11206,NY,
+184 Staggwalk St,11206,NY,
+19 Mauer St,11206,NY,
+19 Mayler st,11206,NY,
+217 Vermont Ave,11206,NY,
+276 TroopAve,11206,NY,
+28 Mayes St,11206,NY,
+29 Moorest,11206,NY,
+300 Verion Ave,11206,NY,
+303 vernon st,11206,NY,
+333 Vernon Boulevard,11206,NY,
+39 Elder St,11206,NY,
+448 willoughby street,11206,NY,
+58 Hemmrod St,11206,NY,
+6 Hort Street,11206,NY,
+601 MERCER AVENUE,11206,NY,
+6721 Park Avenue,11206,NY,
+85 Tomkins Ave,11206,NY,
+892 Delcalb,11206,NY,
+93 Lous Ave,11206,NY,
+Brooklyn,11206,NY,
+,11207,NY,
+116 William Avenue,11207,NY,
+116 William Street,11207,NY,
+1200 Halsey Stret,11207,NY,
+123 Van Scylen Av,11207,NY,
+131-10 Brewer Blvd,11207,NY,
+157 Belmunt Ave,11207,NY,
+165 Ten Ecky Walk,11207,NY,
+180 witman ave,11207,NY,
+2211Pitkin Ave,11207,NY,
+227 Chelsea St,11207,NY,
+247 Vermont Ave,11207,NY,
+2510 Hale Av,11207,NY,
+270 van scien avenue,11207,NY,
+318 New Jersey Ave,11207,NY,
+330 Wyona S,11207,NY,
+34 Couert St,11207,NY,
+37 Sneneck Av,11207,NY,
+377 Bunbay St.,11207,NY,
+40 New Hope,11207,NY,
+405 Gior,11207,NY,
+428 Shefferd Ave,11207,NY,
+44 Morrat Street,11207,NY,
+456 Bedford Street,11207,NY,
+463 Penn Ave,11207,NY,
+476 Serome St,11207,NY,
+504 Scheman Ave,11207,NY,
+510 Blakeave.,11207,NY,
+5103 Wyona St,11207,NY,
+515 HindsdaleSt,11207,NY,
+525 Wyoming St,11207,NY,
+535 Williams St,11207,NY,
+615 William Avenue,11207,NY,
+635 terome street,11207,NY,
+67 Elder St,11207,NY,
+698 cltauncey street,11207,NY,
+743 WyonaSt,11207,NY,
+753 Vernon Street,11207,NY,
+756 Stanley Ave,11207,NY,
+803 Vermont Ave,11207,NY,
+835-13 Lake Ave,11207,NY,
+979 Cooper St,11207,NY,
+none,11207,NY,
+,11208,NY,
+1055 Lake Ave,11208,NY,
+1305 Horning Ave,11208,NY,
+137 AutumnAve.,11208,NY,
+148 sherperd ave,11208,NY,
+150grant ave,11208,NY,
+1624 Autumm Ave,11208,NY,
+193 Shepard Ave,11208,NY,
+200 Shepard Ave,11208,NY,
+21 A Hill Street,11208,NY,
+230 Aetna St,11208,NY,
+230 Herna Street,11208,NY,
+266 Mckinley St,11208,NY,
+305 Horning Ave,11208,NY,
+312 Nichols St.,11208,NY,
+3332Fulton Street,11208,NY,
+336 fulton ave,11208,NY,
+361 Elder St,11208,NY,
+361 Eldern Ln,11208,NY,
+3809 112th St,11208,NY,
+452 eldertklane,11208,NY,
+457 Pine T,11208,NY,
+515 W 138th Street,11208,NY,
+534 Cleveland ave,11208,NY,
+57 Shepperd Av,11208,NY,
+578 Essex Sst,11208,NY,
+601 EuclidAve,11208,NY,
+68 Berrigam AV,11208,NY,
+760 Echbert,11208,NY,
+790 Eldert in,11208,NY,
+8345 Victor Ave,11208,NY,
+8511 Hegeman,11208,NY,
+95 Shepard Ave,11208,NY,
+Etna Ave,11208,NY,
+302-99 th street,11209,NY,
+333 Ong Ave,11209,NY,
+339 East 116th St,11209,NY,
+339 East 116th Street,11209,NY,
+368-97th street,11209,NY,
+450-78th,11209,NY,
+532 32St,11209,NY,
+16-33Albany Ave,11210,NY,
+1660 eE 21st ST,11210,NY,
+559 E28th St,11210,NY,
+720 W. 32 St.,11210,NY,
+,11211,NY,
+156 4thst,11211,NY,
+"156 South9thstreet,",11211,NY,
+160 S2 Street,11211,NY,
+176 South,11211,NY,
+208 south,11211,NY,
+211 51st Street,11211,NY,
+219 Weirfield Ave,11211,NY,
+237 south street 2nd street,11211,NY,
+274 south inn street,11211,NY,
+30 DeBevoiseAve,11211,NY,
+310 south,11211,NY,
+340 So 3rd St,11211,NY,
+354 ST,11211,NY,
+,11212,NY,
+100 Christopher Ave.,11212,NY,
+1003 Willmark St,11212,NY,
+"1068Winthropstreet,",11212,NY,
+12 Uloth Ave,11212,NY,
+124 Loft Ave,11212,NY,
+1407Linden Blvd,11212,NY,
+2268 stranos street,11212,NY,
+239 Dumont St,11212,NY,
+280 herkmer street,11212,NY,
+281powell st,11212,NY,
+357 Ambery Street,11212,NY,
+360 B CHESTER STREET,11212,NY,
+360 E98th St,11212,NY,
+364 Livona St,11212,NY,
+372 Black Ave,11212,NY,
+397 east 90th street,11212,NY,
+399 A Bristol St,11212,NY,
+3993 Bristol St,11212,NY,
+420 B Chester Street,11212,NY,
+422 Lake Ave,11212,NY,
+569 Osborn Avenue,11212,NY,
+61 Thaftord Avenue,11212,NY,
+912 Saratope,11212,NY,
+985 Christopher St,11212,NY,
+,11213,NY,
+1008 st. mark ave,11213,NY,
+103 Sterling Plaza,11213,NY,
+"1233 St,Johns Pl",11213,NY,
+1255 Park Av,11213,NY,
+1299 stesterling place,11213,NY,
+1304 Union Stret,11213,NY,
+1451 prospect ave,11213,NY,
+1588 President Av,11213,NY,
+1770 president street,11213,NY,
+189 street,11213,NY,
+1982 St.Johns Pl,11213,NY,
+2035 Albany Avenue,11213,NY,
+300 Putan Ave,11213,NY,
+36 A Hampton Pl,11213,NY,
+395 Schendady Ave,11213,NY,
+435 Easter Parkway,11213,NY,
+446 Herkimer Ave,11213,NY,
+55 6 a macon,11213,NY,
+654 Ahabey St,11213,NY,
+789 St Mark Ave,11213,NY,
+789 St Marx Ave,11213,NY,
+8 Rever Pl.,11213,NY,
+805 st makr ave,11213,NY,
+930 Prospective Pl,11213,NY,
+Private Location,11213,NY,
+119-20 194th St,11214,NY,
+190 Bay 32n St,11214,NY,
+1919 87st Street,11214,NY,
+2000 84thStreet,11214,NY,
+2032-85th street,11214,NY,
+7510 17th st,11214,NY,
+,11215,NY,
+229-13 th street,11215,NY,
+323 6tg street,11215,NY,
+334 8th avennue,11215,NY,
+356 A Prospect Ave,11215,NY,
+391 prospect aev,11215,NY,
+551 4tth Av,11215,NY,
+8th Ave.,11215,NY,
+po 150-292,11215,NY,
+,11216,NY,
+117 MaconSt.,11216,NY,
+1345 Mcdough St,11216,NY,
+166 madison ave,11216,NY,
+19 Breevort Place,11216,NY,
+220 maeon street,11216,NY,
+267  Myrtle Av,11216,NY,
+276 A Quincy Street,11216,NY,
+284 Stter Ave,11216,NY,
+330 LexingtoAve,11216,NY,
+342 lewis street,11216,NY,
+343 A Quincy Street,11216,NY,
+3911 Gleenwood Rd,11216,NY,
+40 McDough St,11216,NY,
+465 A Gates Avenue,11216,NY,
+465 Agates Avenue,11216,NY,
+539 madison ave,11216,NY,
+553 decatar street,11216,NY,
+5590 nostrand ave,11216,NY,
+579 Pensilvania Ave,11216,NY,
+642A,11216,NY,
+676 stering,11216,NY,
+72 Spenscer Pl,11216,NY,
+720 St Mark Ave,11216,NY,
+73 jeffersonvave,11216,NY,
+748 Saint mark avenue,11216,NY,
+770 St. Marks St,11216,NY,
+808 Marsy Avenue,11216,NY,
+83-45 victor avenue,11216,NY,
+86 Halsen Street,11216,NY,
+966 1/2 Bergen Street,11216,NY,
+97 Maxon St,11216,NY,
+Client did not disclose,11216,NY,
+Macon St,11216,NY,
+,11217,NY,
+118 Sterling Ave,11217,NY,
+218-15 pulasky street,11217,NY,
+53 6thave,11217,NY,
+53-6th ave,11217,NY,
+63 FT Greeme,11217,NY,
+84lafayette ave,11217,NY,
+,11218,NY,
+10214 88th ave,11218,NY,
+1163 prospectave,11218,NY,
+192 East 8thg St,11218,NY,
+"248 Danill Road, Brooklyn, NY",11218,NY,
+295 Ocean Pakway,11218,NY,
+3419 19th ave,11218,NY,
+403 avenue,11218,NY,
+414 Albemark Road,11218,NY,
+519 Hinsale St,11218,NY,
+604 eest 5th street,11218,NY,
+PO Box 180460,11218,NY,
+1358 57thSt,11219,NY,
+4112 Fort Hamilton Pk,11219,NY,
+5423 Frthmltn pwy,11219,NY,
+974-45 street,11219,NY,
+,11220,NY,
+333 Cotziczco St,11220,NY,
+821 44TH STRETE,11220,NY,
+,11221,NY,
+1044jefferson ave,11221,NY,
+1075 Green Av,11221,NY,
+114 Hartman St,11221,NY,
+1245 Broadway Ave,11221,NY,
+1285,11221,NY,
+1285 Lafayette Ave,11221,NY,
+145 van Buenlt,11221,NY,
+151 WEIRFIELD AVE,11221,NY,
+194 maclolmy blvd,11221,NY,
+22 harman ave,11221,NY,
+22 harman streer,11221,NY,
+261 WOODSINE STREET,11221,NY,
+288 Cornelious St,11221,NY,
+304 Thompkins Ave,11221,NY,
+333 Kozcuzko St,11221,NY,
+34 Malcon Blvd,11221,NY,
+360 A Madison St,11221,NY,
+587 Jefferson Place,11221,NY,
+604 kiosuzk Ave,11221,NY,
+620 Gates BK,11221,NY,
+64 patchin ave,11221,NY,
+686 MADISON AVENUE,11221,NY,
+854 Madison Avenue,11221,NY,
+910 Delkab Ave,11221,NY,
+blank,11221,NY,
+nothing,11221,NY,
+127 Guensy St,11222,NY,
+"159 NormanAve,IL,Brooklyn",11222,NY,
+190 Judgest St,11222,NY,
+370 McGuinessBlvd.,11222,NY,
+53 India Ave,11222,NY,
+85 ClaySt.,11222,NY,
+9498 NASSUA AVE,11222,NY,
+96 milton avenue,11222,NY,
+29 AveW,11223,NY,
+2430 west 30 street,11224,NY,
+2970 W24th St,11224,NY,
+311 Bayview Ave,11224,NY,
+,11225,NY,
+327 A Winthrop Street,11225,NY,
+395 MapleSt.,11225,NY,
+42 B Eastern PKWY,11225,NY,
+500 montgomery streeet,11225,NY,
+N/A,11225,NY,
+,11226,NY,
+1-tennisct,11226,NY,
+121 Martin St,11226,NY,
+1258 Roger Ave,11226,NY,
+131 E21 Street,11226,NY,
+1705 DORCHESTER AVENUE,11226,NY,
+1705 Dorches,11226,NY,
+189east18 st,11226,NY,
+2115 albermarle terrace,11226,NY,
+220 east church ave,11226,NY,
+225 farkside ave,11226,NY,
+227LINDEN BLVD,11226,NY,
+"2501 Claredon Road Brooklyn, NY",11226,NY,
+266 East 214 St,11226,NY,
+2802ALBEMARLYRD,11226,NY,
+45 Tennis Rd,11226,NY,
+553 HINSDALE AVENUE,11226,NY,
+781Ocean Ave,11226,NY,
+E. 21st,11226,NY,
+,11228,NY,
+147276st,11228,NY,
+1508 86thstreet,11228,NY,
+253 Bay 111 St,11228,NY,
+70 220 13th avenue,11228,NY,
+1324 A ave,11229,NY,
+1714 Brooklyn Ave,11229,NY,
+2263 Bathelden Street,11229,NY,
+2370 Knap Street,11229,NY,
+2570 West 27th St,11229,NY,
+2965 E 13th St,11229,NY,
+3042 Ave,11229,NY,
+319webster ave,11230,NY,
+570 Westminister Road,11230,NY,
+8510 East 17th St,11230,NY,
+116-Bush Street,11231,NY,
+31 Centre Mall,11231,NY,
+37 Centre Mall,11231,NY,
+453 Colombia Street,11231,NY,
+87 Lorraine Strret,11231,NY,
+95 Center mall,11231,NY,
+20012 22 ave,11232,NY,
+,11233,NY,
+11buffalo ave,11233,NY,
+1267 herkimer avenue,11233,NY,
+127 Kingsborough,11233,NY,
+135 KingsBorough,11233,NY,
+164 Dewey Pl,11233,NY,
+1647 St Mark Avenue,11233,NY,
+1661StJohns Pl,11233,NY,
+1693 St John Pl,11233,NY,
+17 jaidire pl,11233,NY,
+1858 Prospect Plz,11233,NY,
+2003 macdougal street,11233,NY,
+23-07 Pacific Ave,11233,NY,
+23-82 Dean Streeet,11233,NY,
+241 Kingsborough,11233,NY,
+254ralph ave,11233,NY,
+294 SumterSt.,11233,NY,
+308 Kingsborough,11233,NY,
+308 kingsboro,11233,NY,
+309 MOTHERGATSON AVE,11233,NY,
+320 kingsborough,11233,NY,
+340Stuyvesant Ave,11233,NY,
+342 kingsborough street,11233,NY,
+354 Kingsboro,11233,NY,
+355 Chancey St,11233,NY,
+364 SUMPTER AVE,11233,NY,
+385 Chauncey Ave,11233,NY,
+386 marcon street,11233,NY,
+394 mac donough ave,11233,NY,
+3R,11233,NY,
+408 kingsborough,11233,NY,
+442 Kingsborough,11233,NY,
+507 Malcolm X Bld,11233,NY,
+529 Kingsborough,11233,NY,
+563 Howard Beach,11233,NY,
+654 Kings Hway,11233,NY,
+654 kingsborough,11233,NY,
+707 Kingsborough,11233,NY,
+720 KingsBorough Wlk,11233,NY,
+862 malon street,11233,NY,
+1222 East St,11234,NY,
+1283 E55 Street,11234,NY,
+154-00 Rockaway Blvd,11234,NY,
+399 Stamphope St,11234,NY,
+5721 Ave,11234,NY,
+Client did not provide,11234,NY,
+146-42 Lakewood Ave,11235,NY,
+2475 Ocean Pkwt,11235,NY,
+2707 E12th street,11235,NY,
+3099 Brighton Street,11235,NY,
+41 Brigthon Path,11235,NY,
+916 Corbin Pl,11235,NY,
+,11236,NY,
+100 23 Ave J,11236,NY,
+104-18 202 St,11236,NY,
+10551 Flatlands,11236,NY,
+107-102 farragut,11236,NY,
+107-120 Farragut Rd,11236,NY,
+1145 ENSL-85-St.,11236,NY,
+1166 E 85th Steet,11236,NY,
+1422 E95TH ST,11236,NY,
+2065 Rockaway Av,11236,NY,
+39 Padergate St,11236,NY,
+43 Paendegat St,11236,NY,
+523 E ast 108t street,11236,NY,
+542 East,11236,NY,
+5985 S Hore Parkway,11236,NY,
+8 Paerdegat,11236,NY,
+87 18 ave L,11236,NY,
+956 East 84thStreet,11236,NY,
+Brooklyn,11236,NY,
+East 104-06 Glenwood Rd,11236,NY,
+S 23 E 108 Street,11236,NY,
+,11237,NY,
+119st Nicholas,11237,NY,
+14 Wilson St,11237,NY,
+1410 Putnam St,11237,NY,
+236 Irvington Av,11237,NY,
+240 Stockholm Dr,11237,NY,
+309 Hammons St,11237,NY,
+313 Hartman Street,11237,NY,
+345 A Bleecker st,11237,NY,
+396 Hartman St,11237,NY,
+465 Harmon St,11237,NY,
+486 HARMON,11237,NY,
+645 Scheneck Av,11237,NY,
+65 Scheffer St,11237,NY,
+7350 Ocean Drive,11237,NY,
+7823 knickebocker ave,11237,NY,
+783 Knicbocker ave,11237,NY,
+783 Knickbocker Av,11237,NY,
+783 Knickbocker av,11237,NY,
+783 Knickebocker ave,11237,NY,
+783 knickbocker av,11237,NY,
+783 knickbocker ave,11237,NY,
+825 Montorose Av,11237,NY,
+8911 Porter Avenue,11237,NY,
+,11238,NY,
+112 grates ave,11238,NY,
+130Lefferts Place,11238,NY,
+143 Leffers Ave,11238,NY,
+153 B Gates Ave,11238,NY,
+157 B Gates Ave,11238,NY,
+225 EASTERN PWY,11238,NY,
+3021 BRIGHTON BEACH,11238,NY,
+340 Green Ave,11238,NY,
+355 Soutgh 2nd St,11238,NY,
+475 Carton Av,11238,NY,
+487 Cortlan Ave,11238,NY,
+528 Clifton Ave,11238,NY,
+585 prosprect Av,11238,NY,
+585park ave,11238,NY,
+6044 Sterling Place,11238,NY,
+713classan ave,11238,NY,
+80 Clifton Pace,11238,NY,
+225 Vandalia St,11239,NY,
+539 Schoreders Ave,11239,NY,
+5983 Louisiana Ave,11239,NY,
+,11247,NY,
+,11352,NY,
+139-07Flushing NY 34th ave,11354,NY,
+"139-29 34th Flushing, NY",11354,NY,
+139-29 34th street,11354,NY,
+14155 25th Road,11354,NY,
+27-10 Parson Blvd,11354,NY,
+34-15 ParsonsBlvd,11354,NY,
+36-20 Bounest,11354,NY,
+,11355,NY,
+115-11 Delaware Ave,11355,NY,
+133-24,11355,NY,
+134-37maple ave,11355,NY,
+13732 Labraman Ave,11355,NY,
+144-40 41ave,11355,NY,
+144-87 414ave,11355,NY,
+157-30,11355,NY,
+41-29 149th St.,11355,NY,
+43-32 Hurray St,11355,NY,
+4344 Casino Blvd,11355,NY,
+4556 Duran st. Flushing,11355,NY,
+48-32 125 kissena blvd,11355,NY,
+Flushing,11355,NY,
+unknown,11355,NY,
+,11356,NY,
+1107 129th st. College point,11356,NY,
+"Whitestone, NY",11357,NY,
+36-19 168th Flushing,11358,NY,
+43-12 161st  Flushing NY,11358,NY,
+4624 196St,11358,NY,
+35-12 CPL Kennedy Street,11361,NY,
+233-2339th rdDouglaston NY,11363,NY,
+43-60- douglasterplax,11363,NY,
+,11364,NY,
+129 90 Hockoven Ave,11364,NY,
+"201-10-50 Ave, New York",11364,NY,
+216-11 64ave,11364,NY,
+73-50 Bell Road,11364,NY,
+75-40,11364,NY,
+87-0323 Ave,11364,NY,
+,11365,NY,
+106-19 65th Ave,11365,NY,
+194-10 K,11365,NY,
+194-35 65 Cres,11365,NY,
+64-15 E 186  Lane,11365,NY,
+6526 Parson Blvd,11365,NY,
+67-36a 186 lane,11365,NY,
+6715 F 186 Lane,11365,NY,
+70-03 E71 St.,11365,NY,
+895 Jamaica Ave,11365,NY,
+144-12 79th Ave,11367,NY,
+144-47 74th Avenue,11367,NY,
+147 46 72nd street,11367,NY,
+158-26 Jewel Ave,11367,NY,
+670-20 Parsons Blvd,11367,NY,
+75-25 143rd Street,11367,NY,
+,11368,NY,
+101-1039 Ave,11368,NY,
+104 20 Rooselevt,11368,NY,
+104-70 48Ave,11368,NY,
+106-03-37th ave,11368,NY,
+108-35 44ave,11368,NY,
+108-59-39 ave,11368,NY,
+110-10-34 avenida,11368,NY,
+11036 55thAvenue,11368,NY,
+111 111,11368,NY,
+130-36th street,11368,NY,
+1925 geoirt Blvd,11368,NY,
+31-24 92st elmhurst,11368,NY,
+35-21,11368,NY,
+35-21-109 st. Corona,11368,NY,
+3520 108thStreet,11368,NY,
+37-39-99 st,11368,NY,
+40-14-108 st,11368,NY,
+50-08 103rd steet,11368,NY,
+51-01 103rd Street,11368,NY,
+54-27 102st.  JF,11368,NY,
+5409 east 108th street,11368,NY,
+55-20 90th St,11368,NY,
+5508 A 97th Street,11368,NY,
+57-57 GrangerSt,11368,NY,
+58-39 ranger street,11368,NY,
+97-11 horace express,11368,NY,
+97-30 5th Ave,11368,NY,
+9715 Horace Harding Exp Way,11368,NY,
+977 Rogers ave.,11368,NY,
+98-17 hoarce harden exp,11368,NY,
+98-23 Harding Horrace,11368,NY,
+98-25 H. H. Exp.,11368,NY,
+98-71 Horace Harding Expwy,11368,NY,
+9832 57th AVve,11368,NY,
+99-12 35th street,11368,NY,
+9917 37th Street,11368,NY,
+Corona,11368,NY,
+"23-30 Looth St, E.Elmhurst",11369,NY,
+25-27 96th east,11369,NY,
+32-43-101 st,11369,NY,
+,11370,NY,
+22-2673rdSt,11370,NY,
+25-53 East Elmhurst,11370,NY,
+None,11370,NY,
+,11372,NY,
+34-36 74Th Jackson Heights,11372,NY,
+35-31 85st.   Jackson hghts,11372,NY,
+"35-34 91st Jackson Heights, NY",11372,NY,
+35-5081st,11372,NY,
+37-01 103RSD STREET,11372,NY,
+37-50 76thStreet,11372,NY,
+73-12 35ave,11372,NY,
+8610 74TH STREET,11372,NY,
+90-11 NorthernBlvd,11372,NY,
+40-23 ethaca,11373,NY,
+40-23 ethica st,11373,NY,
+"40-30 755st Elmhurst, NY",11373,NY,
+40-30 75th Ave,11373,NY,
+40-37 Benmst,11373,NY,
+41 33 ithcaca street,11373,NY,
+"42-53 Ketcham, Elhmurst",11373,NY,
+45-026 80th Street,11373,NY,
+5028 Junction Blv,11373,NY,
+81-11 45ave,11373,NY,
+83-07 54ave,11373,NY,
+"83-45 broadway Queens,",11373,NY,
+84-25Elmhurst ave,11373,NY,
+85-14 Broadway Elmhurst,11373,NY,
+8933 Elmhurst Avenue,11373,NY,
+9060 57 Avenue,11373,NY,
+"61-15 97th st rego park, ny",11374,NY,
+61-41 Surdess Street,11374,NY,
+6262 woodhaven bldv,11374,NY,
+65-75 Sanders Street,11374,NY,
+"66-82 79thPlace,",11374,NY,
+98-51QnsBlvd,11374,NY,
+102-17 Forest Hills,11375,NY,
+102-30 67thave,11375,NY,
+107-23 71st Street,11375,NY,
+108-33 68dr,11375,NY,
+,11377,NY,
+40-48-67st,11377,NY,
+4033 79TH STREET,11377,NY,
+41-10 30th street,11377,NY,
+41-47 E 56th Street,11377,NY,
+412-20 55th Street,11377,NY,
+42-65 place,11377,NY,
+47-10 LAURELL HILL ROAD,11377,NY,
+473059thstreet,11377,NY,
+48-55 46th Ave.,11377,NY,
+50-07Broadway,11377,NY,
+5866 41ST STREET,11377,NY,
+59-10 Queens Blv,11377,NY,
+5940 QUEENS BLV D,11377,NY,
+771 UNION AVENUE,11377,NY,
+Brooklyn,11377,NY,
+Jackson Heights,11377,NY,
+N/A,11377,NY,
+,11378,NY,
+1722 HIMROS STREET,11378,NY,
+52-15 65th St,11378,NY,
+54-22 69 lane,11378,NY,
+65 09 66th ST,11378,NY,
+Maspeth Ave,11378,NY,
+Maspeth NY,11378,NY,
+63-1184 street,11379,NY,
+,11385,NY,
+1615 Putman Av,11385,NY,
+1683 George Av,11385,NY,
+1722 green ave,11385,NY,
+1820 Dekalb Anve,11385,NY,
+1862 Putman Av,11385,NY,
+1865 Putman Ave,11385,NY,
+19-24 Bleeker Street,11385,NY,
+2023 Blecker St,11385,NY,
+22-22 havwan st,11385,NY,
+279 St Nicolas Ave,11385,NY,
+5915 71rst st,11385,NY,
+5925catalpa ave,11385,NY,
+60 801 Fresh Pond Rd,11385,NY,
+60-49 6th Ave,11385,NY,
+74-27 64 Places,11385,NY,
+80-82 29 St,11385,NY,
+89-111 porter ave,11385,NY,
+onderdonk ave,11385,NY,
+115-101 Spring Ave.,11411,NY,
+115-90 spring blvd,11411,NY,
+"117-40 224th st Cambria Hts, NY 11411",11411,NY,
+119-20-cross island pkway Camberia Heights,11411,NY,
+1240 229TH STREET,11411,NY,
+216-08 115 Teriace,11411,NY,
+Camberia hieghts,11411,NY,
+104-48 148th St.,11412,NY,
+112-18-198 St.,11412,NY,
+"114-43 farmers blvd, st.albans",11412,NY,
+116-45 Farmes Blvd.,11412,NY,
+11722 195TH STREE,11412,NY,
+118-29 20 1st Place,11412,NY,
+142-95 Hollis Ave,11412,NY,
+169-09 203 Street,11412,NY,
+187-09 Bromkerhoff st,11412,NY,
+196-21 iiger ave,11412,NY,
+200-20 linden blvd st.Albans Queens,11412,NY,
+205-12 111st,11412,NY,
+,11413,NY,
+110 20 182 St,11413,NY,
+122-11 crayton,11413,NY,
+130-01 288st,11413,NY,
+"133-29 203st Laurenlton, NY",11413,NY,
+134-27 275th st,11413,NY,
+"136-31 221 Street, Springfield Gardens, NY",11413,NY,
+144-45th Place,11413,NY,
+182-161 44 ave,11413,NY,
+183-01 114 ave,11413,NY,
+183-03 145th St,11413,NY,
+187-07 Richdale St,11413,NY,
+187-18 Ridge Drive st,11413,NY,
+219-15 144ave,11413,NY,
+225-10 138th Street,11413,NY,
+226-27 144Th Street,11413,NY,
+23pxp148thst,11413,NY,
+822-34 143 ave,11413,NY,
+90-02 Van Wyck expway,11413,NY,
+155-31st Street,11414,NY,
+,11415,NY,
+"123-35 82nd Road, Kew Gardens",11415,NY,
+123-88 83rd Ave,11415,NY,
+729 West 186th Street,11415,NY,
+83-27 124PL,11415,NY,
+84023 130th street,11415,NY,
+101 - 98 94 St,11416,NY,
+101-03 97ave,11416,NY,
+107-55 92st Ozone park,11417,NY,
+149-43,11417,NY,
+8717 Gold RD,11417,NY,
+91-18 107 ave Ozone Park,11417,NY,
+97-27 134ave,11417,NY,
+Ozone Park,11417,NY,
+,11418,NY,
+"107-12 jamacia, NY",11418,NY,
+84-22,11418,NY,
+93-03 104 st.  Richmond Hill,11418,NY,
+107-53 177th St,11419,NY,
+118-18 101ave,11419,NY,
+126-90 101St,11419,NY,
+9226 109 st,11419,NY,
+94-13 129st Street Richmond Hill,11419,NY,
+97-151 129st.,11419,NY,
+97-20 van wyc expwy Richmond ave,11419,NY,
+,11420,NY,
+109-15 13th St,11420,NY,
+109-19 132d Street,11420,NY,
+11-51 116th St,11420,NY,
+111-35,11420,NY,
+111-48 116st south ozone park,11420,NY,
+"122-29 Sutter Avenue, South Ozone Park, NY",11420,NY,
+127-16 150Ave,11420,NY,
+127-60 Van Wyck Expway,11420,NY,
+130-34 129st south ozonepark,11420,NY,
+133-17126 Street,11420,NY,
+135 05 Focls Blvd.,11420,NY,
+14946 124th st.  South Ozone park,11420,NY,
+Lofrents Blvd,11420,NY,
+,11421,NY,
+10 Eldert Lane,11421,NY,
+74-14 85th St,11421,NY,
+8549 95th street,11421,NY,
+8746 86TH AVENUE,11421,NY,
+88 71 Eldert Av,11421,NY,
+88-63 Eldersten,11421,NY,
+88-63 Eldertln,11421,NY,
+94-17 90th Street,11421,NY,
+,11422,NY,
+137-40,11422,NY,
+147-20-253 rosedace place,11422,NY,
+148-71 262pl,11422,NY,
+239-37 104th Rd,11422,NY,
+240-63EdgewoodSt,11422,NY,
+24305,11422,NY,
+254-07,11422,NY,
+255-31,11422,NY,
+Rosedale,11422,NY,
+,11423,NY,
+10037 195th avenue,11423,NY,
+188 30-87th drive,11423,NY,
+195 St,11423,NY,
+204-15 Foothill b28 ave,11423,NY,
+205-19 JamaicaAve,11423,NY,
+9132 95th st,11423,NY,
+93-25 187 Street,11423,NY,
+99-16 201st. Hollis,11423,NY,
+,11426,NY,
+245-35 77 cresecent bellerose,11426,NY,
+251-4171st Ave.,11426,NY,
+8829 Belrose,11426,NY,
+89-37 2009th st,11427,NY,
+,11428,NY,
+99 Claridge Avenue,11428,NY,
+,11429,NY,
+109-058 springfeild blvd,11429,NY,
+211-70 88th Avenue,11429,NY,
+215-44 99th Ave,11429,NY,
+218-28 10,11429,NY,
+218-63 110 st,11429,NY,
+"220-26 Hempstead, Queens Village, NY",11429,NY,
+119-05 147 St,11430,NY,
+132-10 5 Counit.,11430,NY,
+,11431,NY,
+,11432,NY,
+114-41 Farmers Blv,11432,NY,
+125-1788th Ave,11432,NY,
+169-1290th Avenue,11432,NY,
+172-11,11432,NY,
+22-45 Disc Ave,11432,NY,
+392 East 4th Street,11432,NY,
+469-09 89TH AVENUE,11432,NY,
+"80-25 Parson Blvd, Jamaica",11432,NY,
+84-51 Parsons Bld.,11432,NY,
+85-02Parsons blvd,11432,NY,
+8739 100th St.,11432,NY,
+"88-23 Jamacia, NY",11432,NY,
+89-00 176 St,11432,NY,
+89-10 17TH ST,11432,NY,
+89-XX 164th St,11432,NY,
+90-20 19th St,11432,NY,
+"90-36 18th St,",11432,NY,
+DID NOT PROVIDE,11432,NY,
+did not provide,11432,NY,
+jamaica NY,11432,NY,
+none,11432,NY,
+,11433,NY,
+07-29 164th Street,11433,NY,
+106-24,11433,NY,
+107-49  165  N7  Jamaica,11433,NY,
+109-15 Merrick Blv,11433,NY,
+110-20 A 172nd Street,11433,NY,
+110-200 172 St,11433,NY,
+110-38-175th St.,11433,NY,
+110-48 158thSt.,11433,NY,
+110-53,11433,NY,
+111-63,11433,NY,
+112-Dillon Street,11433,NY,
+"1630-20 Jamacia, NY",11433,NY,
+16359 Phroane Avenue,11433,NY,
+164-11 111 Ave,11433,NY,
+"16409 108th Drive,Jamaica",11433,NY,
+167-16 11 Ave,11433,NY,
+167-26108th dr.,11433,NY,
+170-04,11433,NY,
+172-40 133ave,11433,NY,
+173-42,11433,NY,
+173-58 104th Street,11433,NY,
+177-11-106 ave,11433,NY,
+71-40 109th ave,11433,NY,
+,11434,NY,
+108-14 Liverpool Ave,11434,NY,
+110-14 116th Ave,11434,NY,
+114-62 merrick bvld,11434,NY,
+115-77 supthin blvd,11434,NY,
+117-49 masidenst,11434,NY,
+119-10 Mathewson st,11434,NY,
+126 172nd Street,11434,NY,
+130-60 176st Jamaica,11434,NY,
+134 166 Place,11434,NY,
+134-19,11434,NY,
+146 parsons blvd,11434,NY,
+146-15 Parsons blvd,11434,NY,
+150-90th Rockaway Blvd,11434,NY,
+163-35 130ave,11434,NY,
+168-34 127th st,11434,NY,
+170-32 130ave,11434,NY,
+172-14153rd ave,11434,NY,
+174-04 126th Street,11434,NY,
+178-39 120 jamaica,11434,NY,
+179-10 179th ave,11434,NY,
+180-20 145th street,11434,NY,
+192-16 174th street,11434,NY,
+680E 140th Street,11434,NY,
+XXXXXXXXX,11434,NY,
+not provided,11434,NY,
+,11435,NY,
+108-04 SPA Dl,11435,NY,
+134-24 Hoover Ave,11435,NY,
+135-30 82nd street drive,11435,NY,
+141-333 pershing,11435,NY,
+141-55,11435,NY,
+143 Hoover Ave,11435,NY,
+143-35 Jamaica Ave.,11435,NY,
+145-25 109th st. Jamacia,11435,NY,
+145057 Lakewood Ave,11435,NY,
+147-17 103rd Rd,11435,NY,
+153-14,11435,NY,
+90-35Van Wyck Blvd,11435,NY,
+115-18 149st Jamaica,11436,NY,
+140-20 Basion Ave,11436,NY,
+145 125 Ave,11436,NY,
+148-03 230th Ave,11436,NY,
+759 Emperial Drive,11510,NY,
+109 Frederick Ave,11520,NY,
+41 W Seaman Ave,11520,NY,
+74 E. Milton,11520,NY,
+74 E.Milton,11520,NY,
+,11542,NY,
+100 Terrace Ave,11550,NY,
+100 Terrace Avenue,11550,NY,
+15 greenlawn court,11550,NY,
+66 MEAD STREET,11550,NY,
+722 jennings,11552,NY,
+228 Pamlico Ave,11553,NY,
+419 Spruce Pl,11553,NY,
+476 ClarendonRoad,11553,NY,
+730 Goodrich st,11553,NY,
+90 Qubec Rd,11558,NY,
+451 Fulton Ave,11559,NY,
+,11561,NY,
+27 Vinton Street,11561,NY,
+141 lyon Pl,11563,NY,
+28 Second Street,11563,NY,
+3 Curtis Pl.,11563,NY,
+101 Parkview Place,11565,NY,
+10 Clock Tower Lane,11568,NY,
+703 Baldwin Ave,11570,NY,
+,11571,NY,
+50 Harris Drive,11572,NY,
+"193 Brookside Ave, Roosevelt, NY",11575,NY,
+54 Parkway Dr,11577,NY,
+11 Clovelly Drive,11580,NY,
+125 Mantens Ave,11580,NY,
+150 Boden Ave,11580,NY,
+56 Arkansas Dr,11580,NY,
+574 Rye Ct.,11580,NY,
+100 Jedwood Place,11581,NY,
+66 Flower Road,11581,NY,
+78 Flower Road,11581,NY,
+848 Newburg Ave,11581,NY,
+848 Newburg Ave.,11581,NY,
+32 Cedar Road,11590,NY,
+6 HOLIDAY PARK,11596,NY,
+538 Hazel Dr,11598,NY,
+75 Burton Ave,11598,NY,
+,11690,NY,
+(1310 Caffrey Ave.,11691,NY,
+10 11 Nelson St,11691,NY,
+1024 Gipson ave,11691,NY,
+107-40 ShoreFront Pkwy,11691,NY,
+1170 Nameolce Street,11691,NY,
+1382 Far rockaway,11691,NY,
+1409 Dinson Street,11691,NY,
+1450 gateway blrd,11691,NY,
+146beach24st,11691,NY,
+1507 Augustina Ave,11691,NY,
+20-38 Seagut Blvd,11691,NY,
+20-46 Seairt Bld.,11691,NY,
+2044 Seagirt Bld.,11691,NY,
+22-29 Dit Ave,11691,NY,
+"22-51 New Queens, NY",11691,NY,
+224 Ceach 31st Street,11691,NY,
+227beach 28st,11691,NY,
+249 beach st.,11691,NY,
+3212 Pluovkett ave,11691,NY,
+3291 Healy Ave.,11691,NY,
+351 41st Far Rockaway,11691,NY,
+38-08 beach C. Drive,11691,NY,
+406 Rockaway Beach Blvd.,11691,NY,
+438 EAST 40TH STREET,11691,NY,
+438 e 40th street,11691,NY,
+453 BEACH STREET,11691,NY,
+711 Segrit Ave,11691,NY,
+711-13 Seagrit Ave,11691,NY,
+71113  Seagirt Ave,11691,NY,
+,11692,NY,
+125 Beach 56 Place,11692,NY,
+125 beach 56th,11692,NY,
+141 Beach 56 PLace,11692,NY,
+141 Beach 56 Place,11692,NY,
+141 Beach56 P,11692,NY,
+141-Beach 56th Place,11692,NY,
+143 Beach st,11692,NY,
+169 Beach St.,11692,NY,
+309 beach 70th Arverne,11692,NY,
+319 Beachstreet 54th st,11692,NY,
+410 Beach St,11692,NY,
+433 Beach 64th Ave,11692,NY,
+528 Beach St,11692,NY,
+56-10 beach drive,11692,NY,
+5610 beach ch dr,11692,NY,
+57-15Shore Front Pkwy,11692,NY,
+5707 Farrockaway,11692,NY,
+651 Beach St,11692,NY,
+7301 Auburn Mews Dr,11692,NY,
+Rockaway Blvd,11692,NY,
+not given,11692,NY,
+unknown,11692,NY,
+"217 Beach 97st. Rockaway beach, NY",11693,NY,
+8105 HAMMELS BLVD BEECH CHANNEL DRIVE,11693,NY,
+84-12 Rockaway Blvd,11693,NY,
+318 E. Beach 101 St.,11694,NY,
+319 Beach St,11694,NY,
+4 Renee Court,11703,NY,
+1434 ACKERSON BLVD,11706,NY,
+1784 5TH AVENUE,11706,NY,
+24 2nd ave,11706,NY,
+41 Peach Pl,11706,NY,
+77 Greenwood Rd,11706,NY,
+7 New Jersey Ave.,11713,NY,
+,11717,NY,
+138 Broadway,11717,NY,
+98 half mile road,11722,NY,
+120 abbington ct,11726,NY,
+12 Rowe Street,11727,NY,
+27W Street,11729,NY,
+12 JUANITA AVENUE,11743,NY,
+12 Juanita Avenue,11743,NY,
+,11746,NY,
+37 Pond Lane,11756,NY,
+107 Heathcote Road,11757,NY,
+59 BURT AVENUE,11768,NY,
+,11772,NY,
+,11784,NY,
+50 Colonial Springs,11798,NY,
+18 Hollman Blvd,11801,NY,
+214 Neach 96th St,11963,NY,
+,12043,NY,
+572 Delaware Ave,12209,NY,
+931 Stanley Street,12307,NY,
+2319 MORRIS AVW,12345,NY,
+ooo-oave,12345,NY,
+408 Montain View Lane,12428,NY,
+,12433,NY,
+98 Burnett Rd.,12477,NY,
+,12533,NY,
+66 miller hill rd,12533,NY,
+573 NORTH QUALER LANE,12538,NY,
+2 DELAWARE ROAD,12550,NY,
+46 Coach House Court,12553,NY,
+155 Walnut Street,12586,NY,
+,12759,NY,
+Rt 52 BX 412,12759,NY,
+25 MECHANIC STREET,12771,NY,
+276 Trout Brook Road,12776,NY,
+,13753,NY,
+200 Water St,16038,PA,
+1725 North 24th Street,17109,PA,
+"751 kellerdrive Lititz, PA",17543,PA,
+1702 Swarr Run Road,17601,PA,
+8658 Cascade Road,18031,PA,
+1521 WEST UNION,18102,PA,
+233 14 Street,18102,PA,
+,18346,PA,
+po box 2186,18346,PA,
+28 MCNAMARA LN,18466,PA,
+9 Sheridan Drive,18466,PA,
+4224 West Thompson,19104,PA,
+9 todd lane,19713,DE,
+433 contry drive,19901,DE,
+10007 Portland Road,20901,MD,
+2020 starr street,21040,MD,
+704M Pine Branch Place,21221,MD,
+107 OCTONIA ROAD,22973,VA,
+6600 Turnaway Lane,23234,VA,
+808 Seminole Drive,23434,VA,
+3864 Jousting Arch,23456,VA,
+1407 LAUGHRIDGE DRIVE,27511,NC,
+411 Myrtlewood Cir,28546,NC,
+337 Culver Avenue,29407,SC,
+2825 windy hill road,30067,GA,
+1425 Cricket Club Circle,32828,FL,
+15751 SW 106 TERR,33196,FL,
+6091 NW 61st Avenue,33319,FL,
+5220 Floridian Ave,34113,FL,
+2025 Gulfview CT,34950,FL,
+37 Hancock Ln,44035,OH,
+3364 WHITE OAK DRIVE,60115,IL,
+1930 Bijou Street,80909,CO,
+6196 Oak Crest way,90042,CA,
+,91221,CA,
+1944 W Ashlan,93705,CA,
+101 ST & ROCKAWAY BLVD,,,4
+WESTCHESTER AVE & EVERGREEN AVE,,,2
+WESTCHESTER AVE & EVERGREEN AVE,,,2
+W 157 ST & BROADWAY,,,1
+W 157 ST & BROADWAY,,,1
+49 W 225,,,2
+162-17 JAMAICA,,,4
+MORRISON AVE & E 172 ST,,,2
+MORRISON AVE & E 172 ST,,,2
+LEXINGTON AVE & BEDFORD AVE,,,3
+87 E 93,,,3
+87 E 93,,,3
+146 ST & ROCKAWAY BLVD,,,4
+BROADWAY & MALCOLM X BLVD,,,3
+1064 BROADWAY,,,3
+1071 BEDFORD,,,3
+1881 HARRISON,,,2
+1137 GREENE,,,3
+1175 EVERGREEN,,,2
+1156 COLGATE,,,2
+WILLMOHR ST & ROCKAWAY PKWY,,,3
+310 BEACH 54,,,4
+310 BEACH 54,,,4
+9720 KINGS,,,3
+9720 KINGS,,,3
+40-38 MAIN,,,4
+103 W 83,,,1
+159 HARLEM RIVER,,,1
+159 HARLEM RIVER,,,1
+159 HARLEM RIVER,,,1
+159 HARLEM RIVER,,,1
+W 157 ST & AMSTERDAM AVE,,,1
+159-02 HARLEM RIVER DRIVE SERVICE W,,,1
+139 ST & FOCH BLVD,,,4
+388 CENTRAL,,,3
+W 63 ST & W END AVE,,,1
+1150 COLGATE,,,2
+CATHERINE ST & MONROE ST,,,1
+CATHERINE ST & MONROE ST,,,1
+405 ROCKAWAY,,,3
+101 ST & NORTHERN BLVD,,,4
+E 165 ST & PROSPECT AVE,,,2
+116-32 155,,,4
+1 REMSEN,,,3
+E 6 ST & AVENUE B,,,1
+E 167 ST & CLAY AVE,,,2
+910 DE KALB,,,3
+JERSEY ST & RICHMOND TER,,,5
+RICHMOND TER & JERSEY ST,,,5
+JERSEY ST & RICHMOND TER,,,5
+190-07 120,,,4
+E 113 ST & 2 AVE,,,1
+1269 BUSHWICK,,,3
+ST MARKS AVE & HOWARD AVE,,,3
+E 91 ST & WINTHROP ST,,,3
+STERLING PL & RALPH AVE,,,3
+RALPH AVE & STERLING PL,,,3
+34 AVE & 21 ST,,,4
+135-30 40,,,4
+120-33 131,,,4
+120-33 131,,,4
+120-33 131,,,4
+W 155 ST & ST NICHOLAS AVE,,,1
+1946 AMSTERDAM,,,1
+PARK PL & UTICA AVE,,,3
+PARK PL & UTICA AVE,,,3
+546 RALPH,,,3
+477 HOWARD,,,3
+217-02 HOLLIS,,,4
+193 BUFFALO,,,3
+JARVIS AVE & ROBERTS AVE,,,2
+40 LEWIS,,,3
+70 HARMAN,,,3
+W 28 ST & 9 AVE,,,1
+W 28 ST & 9 AVE,,,1
+GATES AVE & TOMPKINS AVE,,,3
+W 133 ST & BROADWAY,,,1
+W 133 ST & BROADWAY,,,1
+44 LEWIS,,,3
+228-09 146,,,4
+197 UTICA,,,3
+E 120 ST & 1 AVE,,,1
+E 120 ST & 1 AVE,,,1
+1 AVE & E 120 ST,,,1
+E 98 ST & LIVONIA AVE,,,3
+LIVONIA AVE & E 98 ST,,,3
+W 89 ST & CENTRAL PARK W,,,1
+W 89 ST & CENTRAL PARK W,,,1
+100 TOMPKINS,,,5
+1928 DR M L KING JR,,,2
+108 W 168,,,2
+2050 FREDERICK DOUGLASS,,,1
+74 HIMROD,,,3
+171 ST & JAMAICA AVE,,,4
+E 116 ST & 5 AVE,,,1
+W 116 ST & 5 AVE,,,1
+5 AVE & W 116 ST,,,1
+E 116 ST & 5 AVE,,,1
+198-03 120,,,4
+W 33 ST & MERMAID AVE,,,3
+W 140 ST & ADAM C POWELL BLVD,,,1
+2395 ADAM C POWELL,,,1
+2727 SURF,,,3
+2326 1,,,1
+1507 ST JOHNS,,,3
+MURDOCK AVE & 198 ST,,,4
+W 56 ST & 11 AVE,,,1
+159-04 HARLEM RIVER DRIVE SERVICE W,,,1
+1934 DR M L KING JR,,,2
+1140 COLGATE,,,2
+3138 BAILEY,,,2
+116-31 157,,,4
+430 BEACH 43,,,4
+114-69 207,,,4
+200 ST & MURDOCK AVE,,,4
+200 ST & MURDOCK AVE,,,4
+W 230 ST & MARBLE HILL AVE,,,2
+W 230 ST & KINGSBRIDGE AVE,,,2
+W 230 ST & KINGSBRIDGE AVE,,,2
+W 163 ST & W 165 ST,,,
+1325 HARROD,,,2
+FLATLANDS AVE & WILLIAMS AVE,,,3
+109-15 217,,,4
+E 139 ST & WILLIS AVE,,,2
+WILLIS AVE & E 139 ST,,,2
+E 139 ST & WILLIS AVE,,,2
+170 ST & JAMAICA AVE,,,4
+170 ST & JAMAICA AVE,,,4
+170 ST & JAMAICA AVE,,,4
+170 ST & JAMAICA AVE,,,4
+W 26 ST & 9 AVE,,,1
+2581 ADAM C POWELL,,,1
+1700 STERLING,,,3
+1700 STERLING,,,3
+1700 STERLING,,,3
+118 AVE & MARSDEN ST,,,4
+117-48 142,,,4
+TOMPKINS ST & HILL ST,,,5
+60 E 93,,,3
+60 E 93,,,3
+60 E 93,,,3
+1025 BOYNTON,,,2
+1025 BOYNTON,,,2
+5 E 93,,,3
+650 CASTLE HILL,,,2
+RIVINGTON ST & ATTORNEY ST,,,1
+RIVINGTON ST & ATTORNEY ST,,,1
+1228 NELSON,,,2
+170-24 JAMAICA,,,4
+W 93 ST & AMSTERDAM AVE,,,1
+10 AVE & W 17 ST,,,1
+433 LINCOLN,,,3
+1418 PARK,,,3
+790 11,,,1
+MADISON ST & JACKSON ST,,,1
+49 W 119,,,1
+49 W 119,,,1
+1815 DR M L KING JR,,,2
+1746 BERGEN,,,3
+315 E 111,,,1
+1421 5,,,1
+889 ST NICHOLAS,,,1
+515 W 156,,,1
+1810 BRUCKNER,,,2
+2970 W 27,,,3
+LEXINGTON AVE & MARCY AVE,,,3
+170-16 JAMAICA,,,4
+399 KOSCIUSZKO,,,3
+383 ROCKAWAY,,,3
+E 169 ST & CLINTON AVE,,,2
+E 116 ST & 1 AVE,,,1
+1 AVE & E 116 ST,,,1
+2683 BROADWAY,,,1
+527 W 157,,,1
+1136 COLGATE,,,2
+447 W 18,,,1
+HUNTS POINT AVE & GARRISON AVE,,,2
+CASTLE HILL AVE & SEWARD AVE,,,2
+ROCKAWAY PKWY & SEAVIEW AVE,,,3
+ROCKAWAY PKWY & SEAVIEW AVE,,,3
+1851 BRUCKNER,,,2
+1851 BRUCKNER,,,2
+1035 BOYNTON,,,2
+961 E 173,,,2
+639 ALBANY,,,3
+639 ALBANY,,,3
+639 ALBANY,,,3
+639 ALBANY,,,3
+1020 BOYNTON,,,2
+109-46 135,,,4
+W 28 ST & 10 AVE,,,1
+RANDALL AVE & HAVEMEYER AVE,,,2
+311 E 111,,,1
+101-28 132,,,4
+110-11 212,,,4
+385 3,,,1
+385 3,,,1
+601 LENOX,,,1
+1182 W FARMS,,,2
+111-39 172,,,4
+TRINITY AVE & E 163 ST,,,2
+TRINITY AVE & E 163 ST,,,2
+1107 DUMONT,,,3
+E 151 ST & MELROSE AVE,,,2
+PROSPECT AVE & E 180 ST,,,2
+E 180 ST & PROSPECT AVE,,,2
+143-18 LIBERTY,,,4
+656 CASTLE HILL,,,2
+49 ST & BROADWAY,,,4
+SAYRES AVE & 175 ST,,,4
+1566 BROADWAY,,,3
+111 AVE & 131 ST,,,4
+1615 ST JOHNS,,,3
+1678 STERLING,,,3
+144-04 LIBERTY,,,4
+E 138 ST & 3 AVE,,,2
+327 VERNON,,,3
+327 VERNON,,,3
+1160 TELLER,,,2
+GRANITE ST & BROADWAY,,,3
+GRANITE ST & BROADWAY,,,3
+E NEW YORK AVE & E 98 ST,,,3
+26 1,,,1
+GLENMORE AVE & MOTHER GASTON BLVD,,,3
+AVENUE D & E 8 ST,,,1
+E 8 ST & AVENUE D,,,1
+AVENUE D & E 8 ST,,,1
+115 AVE & VAN WYCK EXPRESSWAY SR W,,,4
+404 BEACH 43,,,4
+E 9 ST & AVENUE D,,,1
+4018 BOSTON,,,2
+116-39 190,,,4
+E 143 ST & 3 AVE,,,2
+E 143 ST & 3 AVE,,,2
+CHERRY ST & CATHERINE ST,,,1
+1220 NELSON,,,2
+290 E 98,,,3
+1821 DR M L KING JR,,,2
+1821 DR M L KING JR,,,2
+WATKINS ST & PITKIN AVE,,,3
+575 E 161,,,2
+1099 DUMONT,,,3
+422 ATKINS,,,3
+BEECHWOOD AVE & BISMARK AVE,,,5
+18 1,,,1
+18 1,,,1
+23 YORK,,,5
+MERMAID AVE & W 32 ST,,,3
+E 161 ST & TINTON AVE,,,2
+E 161 ST & TINTON AVE,,,2
+145-15 ROCKAWAY,,,4
+729 UNION,,,2
+729 UNION,,,2
+643 HOWARD,,,3
+353 ROCKAWAY,,,3
+3202 MERMAID,,,3
+E 174 ST & VYSE AVE,,,2
+1680 LEXINGTON,,,1
+PITKIN AVE & MOTHER GASTON BLVD,,,3
+PITKIN AVE & MOTHER GASTON BLVD,,,3
+101-35 131,,,4
+110-09 FRANCIS LEWIS,,,4
+110-09 FRANCIS LEWIS,,,4
+985 PROSPECT,,,2
+2690 BROADWAY,,,1
+637 HAWTHORNE,,,3
+E 147 ST & BROOK AVE,,,2
+W 31 ST & SURF AVE,,,3
+3214 MERMAID,,,3
+1033 FAILE,,,2
+95 HARMAN,,,3
+138-14 107,,,4
+78 CATHERINE,,,1
+176 E 115,,,1
+1152 SUTTER,,,3
+310 E 71,,,1
+3244 3,,,2
+930 DE KALB,,,3
+1665 BRYANT,,,2
+W 90 ST & COLUMBUS AVE,,,1
+W 90 ST & COLUMBUS AVE,,,1
+104-03 211,,,4
+277 MAC DOUGAL,,,3
+E 128 ST & PARK AVE,,,1
+E 128 ST & PARK AVE,,,1
+426 ATKINS,,,3
+63 W 119,,,1
+KINGSBOROUGH 7 WALK & HOWARD AVE,,,3
+218-04 140,,,4
+225-28 109,,,4
+116-29 SUTPHIN,,,4
+BLAKE AVE & EUCLID AVE,,,3
+HARRISON AVE & KINGSLAND PL,,,2
+25 E 98,,,3
+DE KALB AVE & STUYVESANT AVE,,,3
+DE KALB AVE & STUYVESANT AVE,,,3
+204 ST & MURDOCK AVE,,,4
+2013 5,,,1
+CASTLE HILL AVE & RANDALL AVE,,,2
+CASTLE HILL AVE & RANDALL AVE,,,2
+W 155 ST & BRADHURST AVE,,,1
+W 155 ST & BRADHURST AVE,,,1
+218-71 HEMPSTEAD,,,4
+LONGFELLOW AVE & WESTCHESTER AVE,,,2
+573 GRAND,,,1
+296 E 98,,,3
+W 32 ST & SURF AVE,,,3
+3240 3,,,2
+1106 GARRISON,,,2
+1545 ST JOHNS,,,3
+1545 ST JOHNS,,,3
+731 UNION,,,2
+118-41 199,,,4
+COLUMBIA ST & RIVINGTON ST,,,1
+MARCUS GARVEY BLVD & VERNON AVE,,,3
+525 W 156,,,1
+525 W 156,,,1
+SUTTER AVE & POWELL ST,,,3
+1849 PITKIN,,,3
+714 E 108,,,3
+111-44 212,,,4
+NAVY ST & ST EDWARDS ST,,,3
+111-31 172,,,4
+135-05 120,,,4
+983 HEGEMAN,,,3
+983 HEGEMAN,,,3
+FOCH BLVD & 143 ST,,,4
+REMSEN AVE & E 58 ST,,,3
+REMSEN AVE & E 58 ST,,,3
+E 174 ST & HOE AVE,,,2
+E 174 ST & HOE AVE,,,2
+E 174 ST & HOE AVE,,,2
+1662 HOE,,,2
+258 E 4,,,1
+168-10 110,,,4
+981 HEGEMAN,,,3
+E 13 ST & AVENUE B,,,1
+E 13 ST & AVENUE B,,,1
+SUTTER AVE & E 98 ST,,,3
+E 98 ST & SUTTER AVE,,,3
+3160 BAILEY,,,2
+164-04 107,,,4
+226 W TREMONT,,,2
+1 AVE & E 112 ST,,,1
+E 112 ST & 1 AVE,,,1
+E 112 ST & 1 AVE,,,1
+716 CAULDWELL,,,2
+508 GLENMORE,,,3
+1521 EASTERN,,,3
+W 130 ST & AMSTERDAM AVE,,,1
+BOSTON RD & E TREMONT AVE,,,2
+W FARMS RD & BOSTON RD,,,2
+E TREMONT AVE & BOSTON RD,,,2
+W FARMS RD & E TREMONT AVE,,,2
+W FARMS RD & E TREMONT AVE,,,2
+89 GLENMORE,,,3
+609 COLUMBUS,,,1
+609 COLUMBUS,,,1
+609 COLUMBUS,,,1
+609 COLUMBUS,,,1
+1549 PITKIN,,,3
+536 RALPH,,,3
+81-05 BEACH CHANNEL,,,4
+619 LENOX,,,1
+3204 MERMAID,,,3
+934 DE KALB,,,3
+441 E 116,,,1
+891 AMSTERDAM,,,1
+150 W 140,,,1
+150 W 140,,,1
+RALPH AVE & SUTTER AVE,,,3
+SUTTER AVE & RALPH AVE,,,3
+2212 LYON,,,2
+2913 W 24,,,3
+CHRISTOPHER AVE & PITKIN AVE,,,3
+935 ST NICHOLAS,,,1
+935 ST NICHOLAS,,,1
+DR M L KING JR BLVD & W 174 ST,,,2
+199-15 MURDOCK,,,4
+159-20 HARLEM RIVER DRIVE SERVICE W,,,1
+ROCKAWAY AVE & LIVONIA AVE,,,3
+82-01 BEACH CHANNEL,,,4
+201-03 104,,,4
+126-35 148,,,4
+890 TRINITY,,,2
+890 TRINITY,,,2
+163 ST & 89 AVE,,,4
+163 ST & 89 AVE,,,4
+163 ST & 89 AVE,,,4
+E 128 ST & LEXINGTON AVE,,,1
+654 COURTLANDT,,,2
+138 WEIRFIELD,,,3
+119-21 190,,,4
+E 115 ST & LEXINGTON AVE,,,1
+E 115 ST & LEXINGTON AVE,,,1
+640 COURTLANDT,,,2
+225 COZINE,,,3
+748 E 9,,,1
+E 112 ST & LEXINGTON AVE,,,1
+LEXINGTON AVE & E 112 ST,,,1
+E 112 ST & LEXINGTON AVE,,,1
+E 112 ST & LEXINGTON AVE,,,1
+JACKSON AVE & E 147 ST,,,2
+3463 3,,,2
+3463 3,,,2
+3463 3,,,2
+3463 3,,,2
+3463 3,,,2
+ROCKAWAY BLVD & 135 ST,,,4
+135 ST & ROCKAWAY BLVD,,,4
+ROCKAWAY BLVD & 135 ST,,,4
+2242 TIEBOUT,,,2
+MERMAID AVE & W 27 ST,,,3
+WEBSTER AVE & E 168 ST,,,2
+E 168 ST & WEBSTER AVE,,,2
+E 168 ST & WEBSTER AVE,,,2
+WEBSTER AVE & E 168 ST,,,2
+E 168 ST & WEBSTER AVE,,,2
+1038 FAILE,,,2
+1115 MADISON,,,3
+HOLLIS AVE & 104 AVE,,,4
+NOSTRAND AVE & QUINCY ST,,,3
+MOTHER GASTON BLVD & SUMPTER ST,,,3
+ROSEDALE AVE & RANDALL AVE,,,2
+RANDALL AVE & ROSEDALE AVE,,,2
+W 25 ST & 9 AVE,,,1
+W 25 ST & 9 AVE,,,1
+1041 FINDLAY,,,2
+1041 FINDLAY,,,2
+1041 FINDLAY,,,2
+1041 FINDLAY,,,2
+1041 FINDLAY,,,2
+W 90 ST & AMSTERDAM AVE,,,1
+AMSTERDAM AVE & W 90 ST,,,1
+W 90 ST & AMSTERDAM AVE,,,1
+AVENUE B & E 14 ST,,,1
+E 14 ST & AVENUE B,,,1
+E 14 ST & AVENUE B,,,1
+69-14 DE COSTA,,,4
+15 MOTHER GASTON,,,3
+1145 DR M L KING JR,,,2
+1145 DR M L KING JR,,,2
+NAGLE AVE & ACADEMY ST,,,1
+1552 WATSON,,,2
+676 WILLOUGHBY,,,3
+391 GEORGIA,,,3
+620 E 13,,,1
+620 E 13,,,1
+620 E 13,,,1
+620 E 13,,,1
+E 115 ST & PARK AVE,,,1
+PARK AVE & E 115 ST,,,1
+WILLIAMS AVE & GLENWOOD RD,,,3
+GLENWOOD RD & WILLIAMS AVE,,,3
+89-28 163,,,4
+89-28 163,,,4
+535 E 180,,,2
+1710 VYSE,,,2
+1710 VYSE,,,2
+1710 VYSE,,,2
+FORT WASHINGTON AVE & W 163 ST,,,1
+FREDERICK DOUGLASS BLVD & W 115 ST,,,1
+W 115 ST & FREDERICK DOUGLASS BLVD,,,1
+W 115 ST & FREDERICK DOUGLASS BLVD,,,1
+FREDERICK DOUGLASS BLVD & W 115 ST,,,1
+W 115 ST & FREDERICK DOUGLASS BLVD,,,1
+117-23 142,,,4
+1717 VYSE,,,2
+424 E 143,,,2
+642 HOWARD,,,3
+1233 GATES,,,3
+620 E 6,,,1
+1843 PITKIN,,,3
+1843 PITKIN,,,3
+1843 PITKIN,,,3
+1843 PITKIN,,,3
+1227 WEBSTER,,,2
+59 PRINCE,,,3
+BUSHWICK AVE & EVERGREEN AVE,,,
+999 FREEMAN,,,2
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+200 TILLARY,,,3
+1041 FAILE,,,2
+545 E 145,,,2
+46 BELMONT,,,3
+46 BELMONT,,,3
+405 GEORGIA,,,3
+E 229 ST & SCHIEFFELIN AVE,,,2
+E 229 ST & SCHIEFFELIN AVE,,,2
+152-06 123,,,4
+EUCLID AVE & SUTTER AVE,,,3
+5360 BROADWAY,,,2
+5360 BROADWAY,,,2
+1975 GRAND,,,2
+E 152 ST & WALES AVE,,,2
+81-03 BEACH CHANNEL,,,4
+81-03 BEACH CHANNEL,,,4
+1781 PARK,,,3
+197-19 NASHVILLE,,,4
+695 E 161,,,2
+134 AVE & 135 ST,,,4
+181 HARMAN,,,3
+107-44 133,,,4
+107-44 133,,,4
+166 E 91,,,3
+EXTERIOR ST & W 225 ST,,,2
+W KINGSBRIDGE RD & W 225 ST,,,2
+415 KOSCIUSZKO,,,3
+500 TRINITY,,,2
+166-04 144,,,4
+MYRTLE AVE & ASHLAND PL,,,3
+105-18 FARMERS,,,4
+525 W 175,,,1
+1881 PARK,,,1
+E NEW YORK AVE & MOTHER GASTON BLVD,,,3
+E 104 ST & 3 AVE,,,1
+E 104 ST & 3 AVE,,,1
+E 104 ST & 3 AVE,,,1
+223 AVENUE B,,,1
+74 ELDERT,,,3
+116-24 198,,,4
+372 E 167,,,2
+133-04 135,,,4
+352 E 141,,,2
+1468 HOE,,,2
+W 166 ST & OGDEN AVE,,,2
+1476 HOE,,,2
+554 MARCY,,,3
+107-19 139,,,4
+2089 DEAN,,,3
+MAGENTA ST & WHITE PLAINS RD,,,2
+MAGENTA ST & WHITE PLAINS RD,,,2
+LIBERTY AVE & 109 RD,,,4
+14 E 125,,,1
+14 E 125,,,1
+205-24 111,,,4
+205-24 111,,,4
+2675 BROADWAY,,,1
+147 ST & 116 AVE,,,4
+147 ST & 116 AVE,,,4
+2 ST & 27 AVE,,,4
+2165 1,,,1
+1673 STERLING,,,3
+104 W 145,,,1
+NOSTRAND AVE & LEFFERTS AVE,,,3
+E 140 ST & WILLIS AVE,,,2
+500 W 178,,,1
+1827 PITKIN,,,3
+FOCH BLVD & GUY R BREWER BLVD,,,4
+375 PULASKI,,,3
+375 PULASKI,,,3
+139 W 138,,,1
+1329 CLINTON,,,2
+REMINGTON ST & SHORE AVE,,,4
+MOORE ST & VARET ST,,,3
+2950 W 25,,,3
+232 E 113,,,1
+1055 CLAY,,,2
+MARCY AVE & GREENE AVE,,,3
+GREENE AVE & MARCY AVE,,,3
+GREENE AVE & MARCY AVE,,,3
+1188 GATES,,,3
+1338 MANOR,,,2
+E 115 ST & MADISON AVE,,,1
+1349 FRANKLIN,,,2
+114 W 143,,,1
+STERLING PL & BUFFALO AVE,,,3
+STERLING PL & BUFFALO AVE,,,3
+360 E 166,,,2
+401 W 164,,,1
+889 HUNTS POINT,,,2
+E 169 ST & FRANKLIN AVE,,,2
+E 169 ST & FRANKLIN AVE,,,2
+E 169 ST & FRANKLIN AVE,,,2
+E 169 ST & FRANKLIN AVE,,,2
+E 178 ST & BRYANT AVE,,,2
+E 178 ST & BRYANT AVE,,,2
+200 W 112,,,1
+200 W 112,,,1
+2901 WHITE PLAINS,,,2
+547 E 180,,,2
+172 FORSYTH,,,1
+E 144 ST & WILLIS AVE,,,2
+E 144 ST & WILLIS AVE,,,2
+1048 COLLEGE,,,2
+115-37 146,,,4
+1687 VYSE,,,2
+211-01 JAMAICA,,,4
+1801 PITKIN,,,3
+INWOOD ST & LINDEN BLVD,,,4
+1317 WASHINGTON,,,2
+930 MACE,,,2
+3 AVE & CLAREMONT PKWY,,,2
+CLAREMONT PKWY & 3 AVE,,,2
+CLAREMONT PKWY & 3 AVE,,,2
+CLAREMONT PKWY & 3 AVE,,,2
+110 W END,,,1
+FLATLANDS AVE & E 104 ST,,,3
+W 103 ST & BROADWAY,,,1
+W 103 ST & BROADWAY,,,1
+W 103 ST & BROADWAY,,,1
+FARRAGUT RD & E 108 ST,,,3
+E 171 ST & BROOK AVE,,,2
+GATES AVE & MARCY AVE,,,3
+MARCY AVE & GATES AVE,,,3
+77 MARCUS GARVEY,,,3
+1145 CLAY,,,2
+E NEW YORK AVE & PITKIN AVE,,,3
+1660 STERLING,,,3
+205-17 112,,,4
+173 HARMAN,,,3
+605 E 169,,,2
+114-26 198,,,4
+114-35 148,,,4
+219-29 113,,,4
+1249 WEBSTER,,,2
+ST JOHNS PL & ROCHESTER AVE,,,3
+1535 DR M L KING JR,,,2
+1535 DR M L KING JR,,,2
+1535 DR M L KING JR,,,2
+1535 DR M L KING JR,,,2
+1535 DR M L KING JR,,,2
+1535 DR M L KING JR,,,2
+1267 WEBSTER,,,2
+346 E 167,,,2
+117-27 132,,,4
+455 FOUNTAIN,,,3
+402 W 20,,,1
+660 WILLOUGHBY,,,3
+135-17 135,,,4
+9722 SEAVIEW,,,3
+1225 WEBSTER,,,2
+1225 WEBSTER,,,2
+W 143 ST & LENOX AVE,,,1
+W 143 ST & LENOX AVE,,,1
+W 143 ST & LENOX AVE,,,1
+W 143 ST & LENOX AVE,,,1
+LENOX AVE & W 143 ST,,,1
+W 143 ST & LENOX AVE,,,1
+W 143 ST & LENOX AVE,,,1
+W 143 ST & LENOX AVE,,,1
+232 W 120,,,1
+232 W 120,,,1
+2163 1,,,1
+E 110 ST & PARK AVE,,,1
+W 129 ST & FREDERICK DOUGLASS BLVD,,,1
+1160 E NEW YORK,,,3
+1160 E NEW YORK,,,3
+1031 LONGFELLOW,,,2
+550 W 125,,,1
+550 W 125,,,1
+BUSHWICK AVE & VARET ST,,,3
+139-15 GLASSBORO,,,4
+139-15 GLASSBORO,,,4
+W 104 ST & BROADWAY,,,1
+745 NOBLE,,,2
+E 106 ST & F D R DR,,,1
+108 AVE & 160 ST,,,4
+AVENUE D & E 6 ST,,,1
+AVENUE D & E 6 ST,,,1
+389 MORGAN,,,3
+FOREST AVE & E 166 ST,,,2
+1247 WEBSTER,,,2
+LINDEN BLVD & WARWICK ST,,,3
+E 156 ST & BROOK AVE,,,2
+E 156 ST & BROOK AVE,,,2
+E 156 ST & BROOK AVE,,,2
+31 W TREMONT,,,2
+1071 TINTON,,,2
+192-54 HOLLIS,,,4
+192-54 HOLLIS,,,4
+102 E 46,,,3
+2 AVE & E 116 ST,,,1
+E 116 ST & 2 AVE,,,1
+E 116 ST & 2 AVE,,,1
+E 116 ST & 2 AVE,,,1
+E 116 ST & 2 AVE,,,1
+CENTRAL AVE & GREENE AVE,,,3
+GREENE AVE & CENTRAL AVE,,,3
+77 VANDALIA,,,3
+BEACH CHANNEL DR & BEACH 72 ST,,,4
+190-57 112,,,4
+960 HALSEY,,,3
+WEIRFIELD ST & EVERGREEN AVE,,,3
+1146 OGDEN,,,2
+3022 GRACE,,,2
+E 138 ST & WILLIS AVE,,,2
+WILLIS AVE & E 138 ST,,,2
+WILLIS AVE & E 138 ST,,,2
+E 138 ST & WILLIS AVE,,,2
+WILLIS AVE & E 138 ST,,,2
+E 138 ST & WILLIS AVE,,,2
+E 138 ST & WILLIS AVE,,,2
+E 104 ST & MADISON AVE,,,1
+100 W 139,,,1
+495 2,,,1
+158 W 140,,,1
+1275 WEBSTER,,,2
+1275 WEBSTER,,,2
+109-17 209,,,4
+144-30 159,,,4
+655 E 108,,,3
+430 W 125,,,1
+430 W 125,,,1
+117-16 193,,,4
+E 115 ST & 2 AVE,,,1
+E 115 ST & 2 AVE,,,1
+E 115 ST & 2 AVE,,,1
+E 115 ST & 2 AVE,,,1
+E 152 ST & TINTON AVE,,,2
+WASHINGTON AVE & E 171 ST,,,2
+FROST ST & MORGAN AVE,,,3
+587 LOGAN,,,3
+1067 NOSTRAND,,,3
+431 W 16,,,1
+431 W 16,,,1
+2957 AVENUE W,,,3
+1752 STORY,,,2
+160 PALMETTO,,,3
+E 56 ST & FARRAGUT RD,,,3
+523 GATES,,,3
+820 MANIDA,,,2
+343 KNOLLWOOD,,,4
+219 AUDUBON,,,1
+656 WILLOUGHBY,,,3
+145-19 123,,,4
+E 169 ST & WASHINGTON AVE,,,2
+E 169 ST & WASHINGTON AVE,,,2
+E 169 ST & WASHINGTON AVE,,,2
+E 169 ST & WASHINGTON AVE,,,2
+WILLIS AVE & E 141 ST,,,2
+E 141 ST & WILLIS AVE,,,2
+257 FERNSIDE,,,4
+CHAUNCEY ST & MARION ST,,,3
+1337 CLINTON,,,2
+1834 STERLING,,,3
+1149 E 229,,,2
+22 W 90,,,1
+E 183 ST & TIEBOUT AVE,,,2
+1246 WESTCHESTER,,,2
+214 TAPSCOTT,,,3
+3 AVE & E 115 ST,,,1
+150-23 119,,,4
+AVENUE C & E 12 ST,,,1
+1878 HARRISON,,,2
+104 RD & 212 ST,,,4
+SUTTER AVE & BLAKE AVE,,,
+1094 FAILE,,,2
+1094 FAILE,,,2
+285 COZINE,,,3
+285 COZINE,,,3
+285 COZINE,,,3
+QUINCY ST & MALCOLM X BLVD,,,3
+QUINCY ST & MALCOLM X BLVD,,,3
+CLINTON AVE & OAKLAND PL,,,2
+115-104 SPRINGFIELD,,,4
+2372 AMSTERDAM,,,1
+1936 MADISON,,,1
+111 W 138,,,1
+E 170 ST & WEBSTER AVE,,,2
+E 99 ST & 3 AVE,,,1
+1550 STERLING,,,3
+BEACH 40 ST & BEACH CHANNEL DR,,,4
+35 AVE & 12 ST,,,4
+107 WATKINS,,,3
+1125 EVERGREEN,,,2
+1125 EVERGREEN,,,2
+1130 COLLEGE,,,2
+1564 SOUTHERN,,,2
+BUSHWICK AVE & COOK ST,,,3
+ROCKAWAY AVE & SUTTER AVE,,,3
+950 MACE,,,2
+NOSTRAND AVE & AVENUE X,,,3
+W 103 ST & MANHATTAN AVE,,,1
+1106 COLLEGE,,,2
+1106 COLLEGE,,,2
+1099 HALSEY,,,3
+195 GRAHAM,,,3
+SCHENCK AVE & STANLEY AVE,,,3
+E 166 ST & PROSPECT AVE,,,2
+277 HINSDALE,,,3
+PARSONS BLVD & JEWEL AVE,,,4
+PARSONS BLVD & JEWEL AVE,,,4
+2410 BOSTON,,,2
+1355 HARROD,,,2
+WATSON AVE & ROSEDALE AVE,,,2
+2110 FREDERICK DOUGLASS,,,1
+51 ST & 31 AVE,,,4
+1065 ANDERSON,,,2
+1239 STANLEY,,,3
+2027 PACIFIC,,,3
+E 106 ST & MADISON AVE,,,1
+357 PULASKI,,,3
+475 CARLTON,,,3
+MOTHER GASTON BLVD & DUMONT AVE,,,3
+1615 DEAN,,,3
+ALBANY AVE & PROSPECT PL,,,3
+W 142 ST & FREDERICK DOUGLASS BLVD,,,1
+963 DE KALB,,,3
+LINDEN ST & WILSON AVE,,,3
+WILSON AVE & LINDEN ST,,,3
+PALMETTO ST & EVERGREEN AVE,,,3
+BLAKE AVE & MOTHER GASTON BLVD,,,3
+BLAKE AVE & MOTHER GASTON BLVD,,,3
+MOTHER GASTON BLVD & BLAKE AVE,,,3
+256 E 105,,,1
+325 E 143,,,2
+325 E 143,,,2
+1106 W FARMS,,,2
+1106 W FARMS,,,2
+HOWARD AVE & ST JOHNS PL,,,3
+W 100 ST & AMSTERDAM AVE,,,1
+TINTON AVE & E 165 ST,,,2
+E 165 ST & TINTON AVE,,,2
+171 BLEECKER,,,3
+154-05 71,,,4
+NOSTRAND AVE & LEXINGTON AVE,,,3
+70 RD & KISSENA BLVD,,,4
+KISSENA BLVD & 70 RD,,,4
+W 103 ST & COLUMBUS AVE,,,1
+W 158 ST & AMSTERDAM AVE,,,1
+W 158 ST & AMSTERDAM AVE,,,1
+RIVINGTON ST & PITT ST,,,1
+174 FORSYTH,,,1
+E 105 ST & FLATLANDS AVE,,,3
+CHERRY ST & CHERRY ST,,,
+NOSTRAND AVE & AVENUE W,,,3
+NOSTRAND AVE & AVENUE W,,,3
+284 TOMPKINS,,,3
+593 GREENE,,,3
+1517 BEACH 11,,,4
+1517 BEACH 11,,,4
+159-26 HARLEM RIVER DRIVE SERVICE W,,,1
+21 ST & 40 AVE,,,4
+DUMONT AVE & POWELL ST,,,3
+POWELL ST & DUMONT AVE,,,3
+DUMONT AVE & POWELL ST,,,3
+F D R DR & E 10 ST,,,1
+E 10 ST & F D R DR,,,1
+W 61 ST & AMSTERDAM AVE,,,1
+41 AVE & VERNON BLVD,,,4
+99 E 91,,,3
+E 104 ST & 1 AVE,,,1
+E 104 ST & 1 AVE,,,1
+E 104 ST & 1 AVE,,,1
+963 PROSPECT,,,2
+E 158 ST & PARK AVE,,,2
+E 158 ST & PARK AVE,,,2
+E 158 ST & PARK AVE,,,2
+E 158 ST & PARK AVE,,,2
+1196 NELSON,,,2
+W 62 ST & AMSTERDAM AVE,,,1
+250 E 105,,,1
+250 E 105,,,1
+134 WASHINGTON,,,3
+LATIMER PL & LINDEN ST,,,
+WASHINGTON AVE & E 170 ST,,,2
+E 170 ST & WASHINGTON AVE,,,2
+685 LENOX,,,1
+1132 HALSEY,,,3
+1142 COLLEGE,,,2
+E 170 ST & WASHINGTON AVE,,,2
+305 E 166,,,2
+E 104 ST & 2 AVE,,,1
+762 HOWARD,,,3
+762 HOWARD,,,3
+NOSTRAND AVE & PARK AVE,,,3
+HICKS ST & W 9 ST,,,3
+W 9 ST & HICKS ST,,,3
+92 TAPSCOTT,,,3
+92 TAPSCOTT,,,3
+92 TAPSCOTT,,,3
+92 TAPSCOTT,,,3
+822 METCALF,,,2
+3346 BAILEY,,,2
+VAN SICLEN AVE & WORTMAN AVE,,,3
+316 BEACH 56,,,4
+PULASKI ST & STUYVESANT AVE,,,3
+630 HOWARD,,,3
+101-52 132,,,4
+101-52 132,,,4
+1668 RALPH,,,3
+121 ST NICHOLAS,,,1
+121 ST NICHOLAS,,,1
+167 ELDRIDGE,,,1
+653 MAPLE,,,3
+1682 SEWARD,,,2
+1682 SEWARD,,,2
+1484 STERLING,,,3
+MARKET ST & BROADWAY,,,5
+PACIFIC ST & ROCHESTER AVE,,,3
+HUMBOLDT ST & DEBEVOISE ST,,,3
+HUMBOLDT ST & DEBEVOISE ST,,,3
+2935 AVENUE W,,,3
+1165 E 226,,,2
+1718 PARK,,,3
+12 ST & 40 AVE,,,4
+40 AVE & 12 ST,,,4
+1264 CLAY,,,2
+1159 BLAKE,,,3
+LIBERTY AVE & MOTHER GASTON BLVD,,,3
+BEACH 57 ST & BEACH CHANNEL DR,,,4
+MILL ST & HICKS ST,,,3
+MILL ST & HICKS ST,,,3
+164 W 141,,,1
+WEBSTER AVE & E 169 ST,,,2
+E 12 ST & AVENUE D,,,1
+PACIFIC ST & SCHENECTADY AVE,,,3
+PACIFIC ST & SCHENECTADY AVE,,,3
+WILSON ST & BEDFORD AVE,,,3
+1010E E 178,,,2
+284 OSBORN,,,3
+WYCKOFF ST & WARREN ST,,,
+1978 2,,,1
+119-30 INWOOD,,,4
+E 180 ST & MONTEREY AVE,,,2
+197-38 122,,,4
+WOODBINE ST & CENTRAL AVE,,,3
+454 W 164,,,1
+1117 WESTCHESTER,,,2
+211-24 104,,,4
+1050 HOE,,,2
+1677 ST JOHNS,,,3
+WATSON AVE & BOYNTON AVE,,,2
+E 165 ST & TRINITY AVE,,,2
+E 165 ST & TRINITY AVE,,,2
+E 165 ST & TRINITY AVE,,,2
+1056 BOYNTON,,,2
+1056 BOYNTON,,,2
+1056 BOYNTON,,,2
+1056 BOYNTON,,,2
+1056 BOYNTON,,,2
+1056 BOYNTON,,,2
+E 124 ST & E 125 ST,,,
+159-48 HARLEM RIVER DRIVE SERVICE W,,,1
+112 W 144,,,1
+425 GATES,,,3
+141 W 144,,,1
+MILLER AVE & PITKIN AVE,,,3
+PITKIN AVE & MILLER AVE,,,3
+2439 ADAM C POWELL,,,1
+1095 HALSEY,,,3
+66 W 94,,,1
+W 17 ST & 9 AVE,,,1
+W 17 ST & 9 AVE,,,1
+9 AVE & W 17 ST,,,1
+W 17 ST & 9 AVE,,,1
+AVENUE D & E 5 ST,,,1
+E 103 ST & 1 AVE,,,1
+1 AVE & E 103 ST,,,1
+E 103 ST & 1 AVE,,,1
+E 103 ST & 1 AVE,,,1
+W 153 ST & MACOMBS PL,,,1
+E 165 ST & TELLER AVE,,,2
+DIVISION AVE & BEDFORD AVE,,,3
+MENAHAN ST & CENTRAL AVE,,,3
+148 W 143,,,1
+2955 AVENUE X,,,3
+TEN EYCK WALK & HUMBOLDT ST,,,3
+CENTRAL AVE & BLEECKER ST,,,3
+269 W 113,,,1
+W 152 ST & ADAM C POWELL BLVD,,,1
+MAUJER ST & MANHATTAN AVE,,,3
+MANHATTAN AVE & MAUJER ST,,,3
+71 AVENUE D,,,1
+71 AVENUE D,,,1
+PITKIN AVE & VAN SICLEN AVE,,,3
+276 WILSON,,,3
+276 WILSON,,,3
+W 164 ST & AMSTERDAM AVE,,,1
+W 164 ST & AMSTERDAM AVE,,,1
+JOHNSON ST & PRINCE ST,,,3
+630 E 6,,,1
+630 E 6,,,1
+630 E 6,,,1
+HOME ST & LONGFELLOW AVE,,,2
+ELLERY ST & MARCY AVE,,,3
+23 ST & 36 AVE,,,4
+HALSEY ST & SARATOGA AVE,,,3
+85 TOMPKINS,,,3
+458 E 143,,,2
+E 169 ST & E 170 ST,,,
+1146 E 226,,,2
+GLENMORE AVE & CHRISTOPHER AVE,,,3
+GLENMORE AVE & CHRISTOPHER AVE,,,3
+65-30 PARSONS,,,4
+864 HEWITT,,,2
+864 HEWITT,,,2
+138 CARLTON,,,3
+1085 NELSON,,,2
+1997 GRAND,,,2
+160 ST & SOUTH RD,,,4
+160 ST & SOUTH RD,,,4
+700 AMSTERDAM,,,1
+ROEBLING ST & S 9 ST,,,3
+E 141 ST & 3 AVE,,,2
+2049 ROCKAWAY,,,3
+W 143 ST & ADAM C POWELL BLVD,,,1
+W 143 ST & ADAM C POWELL BLVD,,,1
+W 143 ST & ADAM C POWELL BLVD,,,1
+W 143 ST & ADAM C POWELL BLVD,,,1
+GREENE AVE & NOSTRAND AVE,,,3
+GREENE AVE & NOSTRAND AVE,,,3
+123 W 142,,,1
+1165 E 229 S,,,2
+E 7 ST & AVENUE C,,,1
+AVENUE W & W 13 ST,,,3
+HOWARD AVE & PACIFIC ST,,,3
+HOWARD AVE & PACIFIC ST,,,3
+BEDELL ST & FOCH BLVD,,,4
+W 151 ST & ADAM C POWELL BLVD,,,1
+BEACH 51 ST & BEACH 53 ST,,,
+425 W 26,,,1
+1240 BURKE,,,2
+156 AVENUE D,,,1
+W 119 ST & LENOX AVE,,,1
+191-28 120,,,4
+1091 PROSPECT,,,2
+107-33 139,,,4
+1138 E 226,,,2
+1096 LONGFELLOW,,,2
+699 WILLOUGHBY,,,3
+184-04 GALWAY,,,4
+1160 E 229,,,2
+1160 E 229,,,2
+ADAM C POWELL BLVD & FREDERICK DOUGLASS BLV,,,
+1318 FRANKLIN,,,2
+STUYVESANT AVE & GATES AVE,,,3
+E 136 ST & WILLIS AVE,,,2
+E 136 ST & WILLIS AVE,,,2
+E 136 ST & WILLIS AVE,,,2
+E 136 ST & WILLIS AVE,,,2
+349 ROCKAWAY,,,3
+160 ST & 109 AVE,,,4
+292 HENRY,,,1
+485 FOUNTAIN,,,3
+213 WATKINS,,,3
+DEAN ST & HOWARD AVE,,,3
+313 NOSTRAND,,,3
+RALPH AVE & ST JOHNS PL,,,3
+ST JOHNS PL & RALPH AVE,,,3
+RALPH AVE & ST JOHNS PL,,,3
+RALPH AVE & ST JOHNS PL,,,3
+RALPH AVE & ST JOHNS PL,,,3
+ST JOHNS PL & RALPH AVE,,,3
+E 27 ST & 2 AVE,,,1
+KINGSLAND AVE & WITHERS ST,,,3
+587 HOWARD,,,3
+3 AVE & E 171 ST,,,2
+E 171 ST & 3 AVE,,,2
+1260 CLAY,,,2
+41 AVE & 12 ST,,,4
+41 AVE & 12 ST,,,4
+TRINITY AVE & E 149 ST,,,2
+10607 GLENWOOD,,,3
+649 ARNOW,,,2
+528 KNICKERBOCKER,,,3
+351 HOWARD,,,3
+W 117 ST & ST NICHOLAS AVE,,,1
+1135 DR M L KING JR,,,2
+1135 DR M L KING JR,,,2
+1135 DR M L KING JR,,,2
+112 E 128,,,1
+112 E 128,,,1
+112 E 128,,,1
+480 E 147,,,2
+PARK PL & ROCHESTER AVE,,,3
+E 13 ST & AVENUE C,,,1
+222-25 143,,,4
+133-08 VAN WYCK EXPRESSWAY SR W,,,4
+115-42 147,,,4
+51 ST & 32 AVE,,,4
+KENT AVE & DE KALB AVE,,,3
+1182 WASHINGTON,,,2
+85 FLEET,,,3
+1108 FINDLAY,,,2
+232 LINDEN,,,3
+LOWELL ST & LONGFELLOW AVE,,,2
+1710 RANDALL,,,2
+1710 RANDALL,,,2
+1710 RANDALL,,,2
+615 ROSEDALE,,,2
+968 WILLIAMS,,,3
+968 WILLIAMS,,,3
+118 MILL,,,3
+79 BARUCH,,,1
+79 BARUCH,,,1
+217 HART,,,3
+1566 STERLING,,,3
+GRAHAM AVE & MAUJER ST,,,3
+MAUJER ST & GRAHAM AVE,,,3
+152 TAPSCOTT,,,3
+152 TAPSCOTT,,,3
+249 W 101,,,1
+40-15 12,,,4
+MOUNT CARMEL PL & 1 AVE,,,
+928 WILLIAMS,,,3
+KINGSLAND PL & W BURNSIDE AVE,,,
+180 ST NICHOLAS,,,1
+115-35 147,,,4
+3573 NOSTRAND,,,3
+3573 NOSTRAND,,,3
+994 WILLIAMS,,,3
+E 112 ST & E 114 ST,,,
+342 CLIFTON,,,3
+MADISON AVE & E 117 ST,,,1
+E 117 ST & MADISON AVE,,,1
+30 W 90,,,1
+428 E 117,,,1
+1927 DR M L KING JR,,,2
+191-24 120,,,4
+138-16 102,,,4
+W 9 ST & COLUMBIA ST,,,3
+MC KIBBIN ST & BUSHWICK AVE,,,3
+103-24 FARMERS,,,4
+126-07 116,,,4
+218-44 140,,,4
+2249 WEBSTER,,,2
+2249 WEBSTER,,,2
+W 152 ST & MACOMBS PL,,,1
+65 AVE & JEWEL AVE,,,
+LINDEN ST & LINDEN ST,,,
+555 W 156,,,1
+23 E 124,,,1
+E 6 ST & AVENUE C,,,1
+132 W 139,,,1
+132 W 139,,,1
+549 F D R,,,1
+252 OSBORN,,,3
+629 E 5,,,1
+1095 PROSPECT,,,2
+106-18 160,,,4
+356 FORD,,,2
+1145 LENOX,,,3
+E 167 ST & WASHINGTON AVE,,,2
+106-16 160,,,4
+635 JEFFERSON,,,2
+521 F D R,,,1
+521 F D R,,,1
+1076 TELLER,,,2
+937 E 172,,,2
+R F WAGNER SR PL & CATHERINE SLIP,,,1
+1121 TELLER,,,2
+620 HOWARD,,,3
+152 W 144,,,1
+178-18 BAISLEY,,,4
+92 S 10,,,3
+92 S 10,,,3
+791 MARCY,,,3
+340 CLIFTON,,,3
+340 CLIFTON,,,3
+340 CLIFTON,,,3
+340 CLIFTON,,,3
+MOORE ST & SEIGEL ST,,,
+E 169 ST & CLAY AVE,,,2
+E 169 ST & CLAY AVE,,,2
+446 W 164,,,1
+111-37 205,,,4
+111-37 205,,,4
+111-37 205,,,4
+111-37 205,,,4
+2630 LINDEN,,,3
+1224 CLAY,,,2
+574 WARREN,,,3
+574 WARREN,,,3
+1170 E 229,,,2
+1170 E 229,,,2
+467 W 164,,,1
+148 W 141,,,1
+118-18 197,,,4
+78 CLASON POINT,,,2
+1408 WEBSTER,,,2
+1408 WEBSTER,,,2
+1408 WEBSTER,,,2
+2680 FREDERICK DOUGLASS,,,1
+211 W 151,,,1
+1895 DR M L KING JR,,,2
+E 168 ST & E 169 ST,,,2

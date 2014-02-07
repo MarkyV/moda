@@ -16,6 +16,8 @@ import com.googlecode.jcsv.reader.CSVEntryParser;
 import com.googlecode.jcsv.reader.CSVReader;
 import com.googlecode.jcsv.reader.internal.CSVReaderBuilder;
 
+import static com.google.common.base.Preconditions.checkState;
+
 public class DataLookup {
 
     /**
@@ -62,7 +64,7 @@ public class DataLookup {
                 reader = new FileReader(file);
             } else {
                 URL url = getClass().getResource(this.filepath);
-
+                checkState(url != null, "url was null for filepath=%s", filepath);
                 reader = new InputStreamReader(url.openStream());
             }
 
@@ -83,10 +85,12 @@ public class DataLookup {
         } catch (IOException ioException) {
             throw new RuntimeException(ioException);
         } finally {
-            try {
-                reader.close();
-            } catch (Exception e) {
-                throw new RuntimeException(e);
+            if (reader != null) {
+                try {
+                    reader.close();
+                } catch (IOException e) {
+                    throw new RuntimeException(e);
+                }
             }
         }
 

@@ -21,6 +21,9 @@ import gov.nyc.moda.geocoder.parser.Parser;
 import gov.nyc.moda.geocoder.parser.StdIn;
 import gov.nyc.moda.geocoder.parser.StdOut;
 
+import static com.google.common.base.Preconditions.checkNotNull;
+import static com.google.common.base.Strings.emptyToNull;
+
 public class Geocode {
 
     public int count_obs = 0, count_geomatch = 0, count_x_y = 0, count_bin = 0, count_bbl = 0, count_feature_name_match = 0;
@@ -29,27 +32,17 @@ public class Geocode {
         return id.length() == 12 && !id.contains(" ");
     }
 
-    /**
-     * @param outputFilePath If <code>null</code>, the output will overwrite the input file.
-     */
-    public Geocode(String inputFilePath, String outputFilePath,
-                   String columnCharDelimiter,
-                   String columnNameForBuildingNumber, String columnNameForStreetName,
-                   String columnNameForZipCode, String columnNameForBorough,
-                   String columnNameForCity) {
+    public Geocode(String inputFilePath, String outputFilePath, String columnCharDelimiter, String columnNameForBuildingNumber, String columnNameForStreetName, String columnNameForZipCode, String columnNameForBorough, String columnNameForCity) {
         final double start = System.currentTimeMillis();
         double percent;
         DecimalFormat df = new DecimalFormat("#.0");
 
         // TODO: Just make the temp-file an extra parameter?
-        if (inputFilePath.equals("temp.txt")
-                || outputFilePath.equals("temp.txt")) {
+        if (inputFilePath.equals("temp.txt") || outputFilePath.equals("temp.txt")) {
             throw new RuntimeException("You cannot name any of the output files 'temp.txt', as this name is already in use.");
         }
 
-        if (outputFilePath.equals("")) {
-            outputFilePath = inputFilePath;
-        }
+        checkNotNull(emptyToNull(outputFilePath), "outputFilePath cannot be null!");
 
         File inputFile = new File(inputFilePath);
         if (!inputFile.exists()) {
@@ -76,27 +69,27 @@ public class Geocode {
 
         if (indexOfBuildingNumberColumn < 0 && columnNameForBuildingNumber.length() > 0) {
             StdOut.println("ERROR: " + columnNameForBuildingNumber + " not on input file.");
-            return;
+            System.exit(2);
         }
         if (indexOfStreetNumberColumn < 0 && columnNameForStreetName.length() > 0) {
             StdOut.println("ERROR: " + columnNameForStreetName + " not on input file.");
-            return;
+            System.exit(3);
         }
         if (indexOfZipCodeColumn < 0 && columnNameForZipCode.length() > 0) {
             StdOut.println("ERROR: " + columnNameForZipCode + " not on input file.");
-            return;
+            System.exit(4);
         }
         if (indexOfBoroughColumn < 0 && columnNameForBorough.length() > 0) {
             StdOut.println("ERROR: " + columnNameForBorough + " not on input file.");
-            return;
+            System.exit(5);
         }
         if (indexOfCityColumn < 0 && columnNameForCity.length() > 0) {
             StdOut.println("ERROR: " + columnNameForCity + " not on input file.");
-            return;
+            System.exit(6);
         }
         if (indexOfBuildingNumberColumn < 0 && indexOfStreetNumberColumn < 0) {
             StdOut.println("ERROR: Neither house number nor street name specified");
-            return;
+            System.exit(7);
         }
 
         int N_args = 0;
@@ -129,12 +122,7 @@ public class Geocode {
         rawLine = file.readLine();
 
         outFile = new Out(tempfile.getAbsolutePath());
-        outFile.println("addressid"
-                + columnCharDelimiter + rawLine
-                + columnCharDelimiter + "parsed_house_number"
-                + columnCharDelimiter + "parsed_feature_name1"
-                + columnCharDelimiter + "parsed_feature_name2"
-                + columnCharDelimiter + "parsed_boro");
+        outFile.println("addressid" + columnCharDelimiter + rawLine + columnCharDelimiter + "parsed_house_number" + columnCharDelimiter + "parsed_feature_name1" + columnCharDelimiter + "parsed_feature_name2" + columnCharDelimiter + "parsed_boro");
 
         String[] line = rawLine.split(columnCharDelimiter);
 
@@ -165,14 +153,11 @@ public class Geocode {
 
             // TODO Header-extraction, and column-index analysis, should be done here
 
-            CSVReader<String[]> csvParser = new CSVReaderBuilder<String[]>(reader)
-                    .strategy(new CSVStrategy(columnCharDelimiter.charAt(0), '\"', '#', false, true))
-                    .entryParser(new CSVEntryParser<String[]>() {
-                        public String[] parseEntry(String... data) {
-                            return data;
-                        }
-                    })
-                    .build();
+            CSVReader<String[]> csvParser = new CSVReaderBuilder<String[]>(reader).strategy(new CSVStrategy(columnCharDelimiter.charAt(0), '\"', '#', false, true)).entryParser(new CSVEntryParser<String[]>() {
+                public String[] parseEntry(String... data) {
+                    return data;
+                }
+            }).build();
             csvParser.readNext(); // Skipping the header
 
             while ((line = csvParser.readNext()) != null) {
@@ -228,18 +213,13 @@ public class Geocode {
                 //assign legit identifiers
                 GeoLocation loc = new GeoLocation(m, sig, boros);
 
-                outFile.println(loc.addressID + columnCharDelimiter + rawLine
-                        + columnCharDelimiter + loc.correctHouse
-                        + columnCharDelimiter + loc.correctFeatureName1
-                        + columnCharDelimiter + loc.correctFeatureName2
-                        + columnCharDelimiter + loc.correctBoro);
+                outFile.println(loc.addressID + columnCharDelimiter + rawLine + columnCharDelimiter + loc.correctHouse + columnCharDelimiter + loc.correctFeatureName1 + columnCharDelimiter + loc.correctFeatureName2 + columnCharDelimiter + loc.correctBoro);
 
                 count_obs++;
                 if (loc.addressID.length() > 0) {
                     count_geomatch++;
                 }
-                if (loc.correctFeatureName1.length() > 0
-                        && (sig.isAddress || loc.correctFeatureName2.length() > 0)) {
+                if (loc.correctFeatureName1.length() > 0 && (sig.isAddress || loc.correctFeatureName2.length() > 0)) {
                     this.count_feature_name_match++;
                 }
             }
@@ -273,15 +253,20 @@ public class Geocode {
             String chunk = "", x = "", y = "";
             rawLine = file.readLine();
             String addressID = rawLine.substring(0, rawLine.indexOf(columnCharDelimiter));
-            if (isIntersection(addressID)) chunk = intersection_x_y.get(addressID);
-            else if (addressID.length() > 0) chunk = address_x_y.get(addressID);
+            if (isIntersection(addressID)) {
+                chunk = intersection_x_y.get(addressID);
+            } else if (addressID.length() > 0) {
+                chunk = address_x_y.get(addressID);
+            }
             x_y = chunk.split(Pattern.quote("|"));
             if (x_y.length == 2) {
                 x = x_y[0];
                 y = x_y[1];
             }
             outFile.println(rawLine + columnCharDelimiter + x + columnCharDelimiter + y);
-            if (x.length() > 0) count_x_y++;
+            if (x.length() > 0) {
+                count_x_y++;
+            }
         }
 
         percent = 100 * count_x_y / ((double) count_obs);
@@ -299,10 +284,15 @@ public class Geocode {
             rawLine = file.readLine();
             String addressID = rawLine.substring(0, rawLine.indexOf(columnCharDelimiter));
             String imputed_bin = "";
-            if (isIntersection(addressID)) imputed_bin = ""; //intersections dont get bin....yet.
-            else if (addressID.length() > 0) imputed_bin = address_bin.get(addressID);
+            if (isIntersection(addressID)) {
+                imputed_bin = ""; //intersections dont get bin....yet.
+            } else if (addressID.length() > 0) {
+                imputed_bin = address_bin.get(addressID);
+            }
             outFile.println(rawLine + columnCharDelimiter + imputed_bin);
-            if (imputed_bin.length() > 0) count_bin++;
+            if (imputed_bin.length() > 0) {
+                count_bin++;
+            }
         }
         percent = 100 * count_bin / ((double) count_obs);
         System.out.println(df.format(percent) + "% were matched to BINs");
@@ -319,10 +309,15 @@ public class Geocode {
             rawLine = file.readLine();
             String addressID = rawLine.substring(0, rawLine.indexOf(columnCharDelimiter));
             String imputed_bbl = "";
-            if (isIntersection(addressID)) imputed_bbl = "";
-            else if (addressID.length() > 0) imputed_bbl = address_bbl.get(addressID);
+            if (isIntersection(addressID)) {
+                imputed_bbl = "";
+            } else if (addressID.length() > 0) {
+                imputed_bbl = address_bbl.get(addressID);
+            }
             outFile.println(rawLine + columnCharDelimiter + imputed_bbl);
-            if (imputed_bbl.length() > 0) count_bbl++;
+            if (imputed_bbl.length() > 0) {
+                count_bbl++;
+            }
         }
         percent = 100 * count_bbl / ((double) count_obs);
         System.out.println(df.format(percent) + "% were matched to BBLs");
@@ -352,8 +347,7 @@ public class Geocode {
 
         if (args.length > 0 && args.length != 8) {
             StdOut.println("usage (without arguments): Geocode");
-            StdOut.println("usage (with arguments): Geocode inputFile outputFile logFile unmatchedAddressFile columnCharDelimiter "
-                    + "columnNameForBuildingNumber columnNameForStreetName columnNameForZipCode columnNameForBorough columnNameForCity");
+            StdOut.println("usage (with arguments): Geocode inputFile outputFile logFile unmatchedAddressFile columnCharDelimiter " + "columnNameForBuildingNumber columnNameForStreetName columnNameForZipCode columnNameForBorough columnNameForCity");
             StdOut.println("If any of the above parameters are not applicable, specify blank quotes.");
             System.exit(-1);
         }
@@ -414,9 +408,6 @@ public class Geocode {
             columnNameForCity = args[i++];
         }
 
-        new Geocode(inputFile, outputFile,
-                columnCharDelimiter, columnNameForBuildingNumber,
-                columnNameForStreetName, columnNameForZipCode,
-                columnNameForBorough, columnNameForCity);
+        new Geocode(inputFile, outputFile, columnCharDelimiter, columnNameForBuildingNumber, columnNameForStreetName, columnNameForZipCode, columnNameForBorough, columnNameForCity);
     }
 }
